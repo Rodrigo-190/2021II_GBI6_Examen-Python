@@ -54,7 +54,7 @@ def mining_pubs(tipo, archivo):
             num_autores.append(n)
         pmid_a = pd.DataFrame()
         pmid_a["PMID"] = PMID 
-        pmid_a["Numero de autores"] = num_autores
+        pmid_a["Número de autores"] = num_autores
         return (pmid_a)
     elif tipo == "AD": 
         mitexto = re.sub(r" [A-Z]{1}\.","", mitexto)
@@ -76,6 +76,6 @@ def mining_pubs(tipo, archivo):
             if valor != 1: 
                 resultado[clave] = valor 
         veces_pais = pd.DataFrame()
-        veces_pais["pais"] = resultado.keys()
-        veces_pais["numero de autores"] = resultado.values()
+        veces_pais["Países"] = resultado.keys()
+        veces_pais["Número de autores"] = resultado.values()
         return (veces_pais)
