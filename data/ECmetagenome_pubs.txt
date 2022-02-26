@@ -1,0 +1,2150 @@
+
+PMID- 35113400
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220207
+LR  - 20220208
+IS  - 0065-2598 (Print)
+IS  - 0065-2598 (Linking)
+VI  - 1346
+DP  - 2021
+TI  - Cataloging Posttranslational Modifications in Plant Histones.
+PG  - 131-154
+LID - 10.1007/978-3-030-80352-0_8 [doi]
+AB  - Eukaryotic DNA exist in the nuclei in the form of a complex with proteins called 
+      chromatin. Access to the information encoded in the DNA requires the opening of
+      the chromatin. Modulation of the chromatin structure is therefore an important
+      layer of regulation for DNA-templated processes. The basic unit of the chromatin 
+      is the nucleosome, which contains DNA wrapped around an octamer of histones, H2A,
+      H2B, H3, and H4. Because histones are a structural part of the nucleosome, its
+      modification can lead to changes in chromatin structure. Amino acid residues in
+      histones could be modified with at least 20 different types of functional groups 
+      leading to a vast number of modified residues. Here, an overview of the histone
+      modifications found in plants is provided. We focus mainly in proteomic-based
+      studies either aimed to identify PTMs on purified histones or proteome-wide
+      analysis of particular modifications. The strategies used for cataloging
+      modifications in plants are also described. Profiling of histone modifications is
+      important to begin to understand their functions as mediators of gene regulation 
+      in plant biological systems.
+CI  - (c) 2021. Springer Nature Switzerland AG.
+FAU - Zacarias, Ericka
+AU  - Zacarias E
+AD  - School of Biological Sciences and Engineering, Yachay Tech University, San Miguel
+      de Urcuqui, Ecuador.
+FAU - Casas-Mollano, J Armando
+AU  - Casas-Mollano JA
+AD  - School of Biological Sciences and Engineering, Yachay Tech University, San Miguel
+      de Urcuqui, Ecuador. acasasmollano@gmail.com.
+AD  - The BioTechnology Institute, College of Biological Sciences, University of
+      Minnesota, Saint Paul, MN, USA. acasasmollano@gmail.com.
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Adv Exp Med Biol
+JT  - Advances in experimental medicine and biology
+JID - 0121103
+RN  - 0 (Chromatin)
+RN  - 0 (Histones)
+RN  - 0 (Nucleosomes)
+SB  - IM
+MH  - Chromatin
+MH  - *Histones/genetics/metabolism
+MH  - Nucleosomes/genetics
+MH  - Plants/*genetics
+MH  - *Protein Processing, Post-Translational
+MH  - *Proteomics
+OTO - NOTNLM
+OT  - Acetylation
+OT  - Acylation
+OT  - Chromatin
+OT  - Core histones
+OT  - Histone modifications
+OT  - Mass spectrometry
+OT  - Methylation
+OT  - Proteomics
+EDAT- 2022/02/04 06:00
+MHDA- 2022/02/08 06:00
+CRDT- 2022/02/03 12:18
+PHST- 2022/02/03 12:18 [entrez]
+PHST- 2022/02/04 06:00 [pubmed]
+PHST- 2022/02/08 06:00 [medline]
+AID - 10.1007/978-3-030-80352-0_8 [doi]
+PST - ppublish
+SO  - Adv Exp Med Biol. 2021;1346:131-154. doi: 10.1007/978-3-030-80352-0_8.
+
+PMID- 34534714
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211102
+LR  - 20211103
+IS  - 1876-7737 (Electronic)
+IS  - 1874-3919 (Linking)
+VI  - 249
+DP  - 2021 Oct 30
+TI  - Venomics of the poorly studied hognosed pitvipers Porthidium arcosae and
+      Porthidium volcanicum.
+PG  - 104379
+LID - S1874-3919(21)00278-5 [pii]
+LID - 10.1016/j.jprot.2021.104379 [doi]
+AB  - We report the first proteomics analyses of the venoms of two poorly studied
+      snakes, the Manabi hognosed pitviper Porthidium arcosae endemic to the western
+      coastal province of Manabi (Ecuador), and the Costa Rican hognosed pitviper P.
+      volcanicum with distribution restricted to South Pacific Costa Rica and western
+      Panama. These venom proteomes share a conserved compositional pattern reported in
+      four other congeneric species within the clade of South American Porthidium
+      species, P. nasutum, P. lansbergii, P. ophryomegas, and P. porrasi. The
+      paraspecific immunorecognition profile of antivenoms produced in Costa Rica (ICP 
+      polyvalent), Peru (Instituto Nacional de Salud) and Brazil (soro antibotropico
+      pentavalente, SAB, from Instituto Butantan) against the venom of P. arcosae was
+      investigated through a third-generation antivenomics approach. The maximal
+      venom-binding capacities of the investigated antivenoms were 97.1 mg, 21.8 mg,
+      and 25.7 mg of P. arcosae venom proteins per gram of SAB, ICP, and INS-PERU
+      antibody molecules, respectively, which translate into 28.4 mg, 13.1 mg, and 15.2
+      mg of total venom proteins bound per vial of SAB, ICP, and INS-PERU AV. The
+      antivenomics results suggest that 21.8%, 7.8% and 6.1% of the SAB, ICP, and
+      INS-PERU antibody molecules recognized P. arcosae venom toxins. The SAB antivenom
+      neutralized P. arcosae venom's lethality in mice with an ED50 of 31.3 mgV/g SAB
+      AV. This preclinical neutralization paraspecificity points to Brazilian SAB as a 
+      promising candidate for the treatment of envenomings by Ecuadorian P. arcosae.
+      BIOLOGICAL SIGNIFICANCE: Assessing the preclinical efficacy profile of antivenoms
+      against homologous and heterologous medically relevant snake venoms represents an
+      important goal towards defining the biogeographic range of their clinical
+      utility. This is particularly relevant in regions, such as Mesoamerica, where a
+      small number of pharmaceutical companies produce antivenoms against the venoms of
+      a small number of species of maximum medical relevance among the local rich
+      herpetofauna, leaving a wide range of snakes of secondary medical relevance, but 
+      also causing life-threatening human envenomings without nominal clinical
+      coverage. This work is part of a larger project aiming at mapping the
+      immunological characteristics of antivenoms generated in Latin American countries
+      towards venoms of such poorly studied snakes of the local and neighboring
+      countries' herpetofauna. Here we report the proteomics characterization of the
+      Manabi hognosed pitviper Porthidium arcosae endemic to the western coastal
+      province of Manabi (Ecuador), and the Costa Rican hognosed pitviper P. volcanicum
+      with distribution restricted to southwestern Costa Rica, the antivenomics
+      assessment of three bothropoid commercial antivenoms produced in Costa Rica,
+      Peru, and Brazil against the venom components of P. arcosae, and the in vivo
+      capacity of the Brazilian soro antibotropico pentavalente (SAB) from Instituto
+      Butantan to neutralize the murine lethality of P. arcosae venom. The preclinical 
+      paraspecific ED50 of 31.3 mg of P. arcosae venom per gram of antivenom points to 
+      Brazilian SAB as a promising candidate for the treatment of envenomings by the
+      Manabi hognosed pitviper P. arcosae.
+CI  - Copyright (c) 2021 Elsevier B.V. All rights reserved.
+FAU - Ruiz-Campos, Marco
+AU  - Ruiz-Campos M
+AD  - Instituto Clodomiro Picado, Facultad de Microbiologia, Universidad de Costa Rica,
+      San Jose 11501, Costa Rica.
+FAU - Sanz, Libia
+AU  - Sanz L
+AD  - Laboratorio de Venomica Evolutiva y Traslacional, Consejo Superior de
+      Investigaciones Cientificas, Valencia, Spain. Electronic address:
+      libia.sanz@ibv.csic.es.
+FAU - Bonilla, Fabian
+AU  - Bonilla F
+AD  - Instituto Clodomiro Picado, Facultad de Microbiologia, Universidad de Costa Rica,
+      San Jose 11501, Costa Rica. Electronic address: Fabian.Bonilla@ucr.ac.cr.
+FAU - Sasa, Mahmood
+AU  - Sasa M
+AD  - Instituto Clodomiro Picado, Facultad de Microbiologia, Universidad de Costa Rica,
+      San Jose 11501, Costa Rica; Centro Investigaciones, Biodiversidad y Ecologia
+      Tropical, Universidad de Costa Rica, San Jose, Costa Rica. Electronic address:
+      mahmood.sasa@ucr.ac.cr.
+FAU - Lomonte, Bruno
+AU  - Lomonte B
+AD  - Instituto Clodomiro Picado, Facultad de Microbiologia, Universidad de Costa Rica,
+      San Jose 11501, Costa Rica. Electronic address: bruno.lomonte@ucr.ac.cr.
+FAU - Zaruma-Torres, Fausto
+AU  - Zaruma-Torres F
+AD  - College of Biochemistry and Pharmacy, Faculty of Chemical Sciences, University of
+      Cuenca, Cuenca, Ecuador. Electronic address: fausto.zaruma@ucuenca.edu.ec.
+FAU - Teran, Maria
+AU  - Teran M
+AD  - Instituto Nacional de Investigacion en Salud Publica (INSPI), Guayaquil, Ecuador.
+      Electronic address: mteran@inspi.gob.ec.
+FAU - Fernandez, Julian
+AU  - Fernandez J
+AD  - Instituto Clodomiro Picado, Facultad de Microbiologia, Universidad de Costa Rica,
+      San Jose 11501, Costa Rica.
+FAU - Calvete, Juan J
+AU  - Calvete JJ
+AD  - Laboratorio de Venomica Evolutiva y Traslacional, Consejo Superior de
+      Investigaciones Cientificas, Valencia, Spain. Electronic address:
+      jcalvete@ibv.csic.es.
+FAU - Caldeira, Cleopatra A S
+AU  - Caldeira CAS
+AD  - Centro de Estudos de Biomoleculas Aplicadas a Saude CEBio/FIOCRUZ/UNIR, Rua da
+      Beira 7671, Lagoa, CEP 76820-245 Porto Velho, Rondonia, Brazil; Programa de
+      Pos-graduacao em Biologia Experimental (PGBIOEXP), Universidade Federal de
+      Rondonia (UNIR), Porto Velho, Brazil; Programa de Pos-graduacao em Biodiversidade
+      e Biotecnologia, rede BIONORTE, Porto Velho, RO, Brazil. Electronic address:
+      cleopatra@unir.br.
+FAU - Da Silva, Saulo L
+AU  - Da Silva SL
+AD  - College of Biochemistry and Pharmacy, Faculty of Chemical Sciences, University of
+      Cuenca, Cuenca, Ecuador. Electronic address: saulo.da.silva@ucuenca.edu.ec.
+LA  - eng
+PT  - Journal Article
+DEP - 20210915
+PL  - Netherlands
+TA  - J Proteomics
+JT  - Journal of proteomics
+JID - 101475056
+RN  - 0 (Antivenins)
+RN  - 0 (Crotalid Venoms)
+RN  - 0 (Proteome)
+RN  - 0 (Snake Venoms)
+SB  - IM
+EIN - J Proteomics. 2021 Oct 5;:104391. PMID: 34636725
+MH  - Animals
+MH  - Antivenins
+MH  - *Crotalid Venoms
+MH  - *Crotalinae
+MH  - Mice
+MH  - Proteome
+MH  - Proteomics
+MH  - Snake Venoms
+OTO - NOTNLM
+OT  - *Antivenomics
+OT  - *Genus Porthidium
+OT  - *Latin American antivenoms
+OT  - *Porthidium arcosae
+OT  - *Porthidium volcanicum
+OT  - *Snake venomics
+EDAT- 2021/09/18 06:00
+MHDA- 2021/11/03 06:00
+CRDT- 2021/09/17 20:15
+PHST- 2021/08/11 00:00 [received]
+PHST- 2021/09/07 00:00 [revised]
+PHST- 2021/09/07 00:00 [accepted]
+PHST- 2021/09/18 06:00 [pubmed]
+PHST- 2021/11/03 06:00 [medline]
+PHST- 2021/09/17 20:15 [entrez]
+AID - S1874-3919(21)00278-5 [pii]
+AID - 10.1016/j.jprot.2021.104379 [doi]
+PST - ppublish
+SO  - J Proteomics. 2021 Oct 30;249:104379. doi: 10.1016/j.jprot.2021.104379. Epub 2021
+      Sep 15.
+
+PMID- 33652915
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210510
+LR  - 20210510
+IS  - 2072-6643 (Electronic)
+IS  - 2072-6643 (Linking)
+VI  - 13
+IP  - 3
+DP  - 2021 Feb 26
+TI  - Nutrition and Rheumatoid Arthritis in the 'Omics' Era.
+LID - 763 [pii]
+LID - 10.3390/nu13030763 [doi]
+AB  - Modern high-throughput 'omics' science tools (including genomics,
+      transcriptomics, proteomics, metabolomics and microbiomics) are currently being
+      applied to nutritional sciences to unravel the fundamental processes of health
+      effects ascribed to particular nutrients in humans and to contribute to more
+      precise nutritional advice. Diet and food components are key environmental
+      factors that interact with the genome, transcriptome, proteome, metabolome and
+      the microbiota, and this life-long interplay defines health and diseases state of
+      the individual. Rheumatoid arthritis (RA) is a chronic autoimmune disease
+      featured by a systemic immune-inflammatory response, in genetically susceptible
+      individuals exposed to environmental triggers, including diet. In recent years
+      increasing evidences suggested that nutritional factors and gut microbiome have a
+      central role in RA risk and progression. The aim of this review is to summarize
+      the main and most recent applications of 'omics' technologies in human nutrition 
+      and in RA research, examining the possible influences of some nutrients and
+      nutritional patterns on RA pathogenesis, following a nutrigenomics approach. The 
+      opportunities and challenges of novel 'omics technologies' in the exploration of 
+      new avenues in RA and nutritional research to prevent and manage RA will be also 
+      discussed.
+FAU - Cassotta, Manuela
+AU  - Cassotta M
+AD  - Research Group on Foods, Nutritional Biochemistry and Health, Universidad Europea
+      del Atlantico, 39011 Santander, Spain.
+FAU - Forbes-Hernandez, Tamara Y
+AU  - Forbes-Hernandez TY
+AD  - Nutrition and Food Science Group, Department of Analytical and Food Chemistry,
+      CITACA, CACTI, University of Vigo, 36310 Vigo, Spain.
+FAU - Cianciosi, Danila
+AU  - Cianciosi D
+AUID- ORCID: 0000-0002-8781-3535
+AD  - Department of Clinical Sciences, Faculty of Medicine, Polytechnic University of
+      Marche, 60131 Ancona, Italy.
+FAU - Elexpuru Zabaleta, Maria
+AU  - Elexpuru Zabaleta M
+AUID- ORCID: 0000-0003-2997-1049
+AD  - Research Group on Foods, Nutritional Biochemistry and Health, Universidad Europea
+      del Atlantico, 39011 Santander, Spain.
+FAU - Sumalla Cano, Sandra
+AU  - Sumalla Cano S
+AD  - Research Group on Foods, Nutritional Biochemistry and Health, Universidad Europea
+      del Atlantico, 39011 Santander, Spain.
+FAU - Dominguez, Irma
+AU  - Dominguez I
+AD  - Research Group on Foods, Nutritional Biochemistry and Health, Universidad Europea
+      del Atlantico, 39011 Santander, Spain.
+FAU - Bullon, Beatriz
+AU  - Bullon B
+AD  - Department of Periodontology, Dental School, University of Sevilla, 41004
+      Sevilla, Spain.
+FAU - Regolo, Lucia
+AU  - Regolo L
+AUID- ORCID: 0000-0001-9432-0408
+AD  - Department of Clinical Sciences, Faculty of Medicine, Polytechnic University of
+      Marche, 60131 Ancona, Italy.
+FAU - Alvarez-Suarez, Jose Miguel
+AU  - Alvarez-Suarez JM
+AUID- ORCID: 0000-0001-8509-1498
+AD  - AgroScience & Food Research Group, Universidad de Las Americas, Quito 170125,
+      Ecuador.
+AD  - King Fahd Medical Research Center, King Abdulaziz University, Jedda 21589, Saudi 
+      Arabia.
+FAU - Giampieri, Francesca
+AU  - Giampieri F
+AD  - Department of Clinical Sciences, Faculty of Medicine, Polytechnic University of
+      Marche, 60131 Ancona, Italy.
+AD  - Department of Biochemistry, Faculty of Sciences, King Abdulaziz University,
+      Jeddah 21589, Saudi Arabia.
+FAU - Battino, Maurizio
+AU  - Battino M
+AD  - Department of Clinical Sciences, Faculty of Medicine, Polytechnic University of
+      Marche, 60131 Ancona, Italy.
+AD  - International Research Center for Food Nutrition and Safety, Jiangsu University, 
+      Zhenjiang 212013, China.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20210226
+PL  - Switzerland
+TA  - Nutrients
+JT  - Nutrients
+JID - 101521595
+SB  - IM
+MH  - Arthritis, Rheumatoid/*etiology
+MH  - Computational Biology/*trends
+MH  - Gene Expression Profiling/trends
+MH  - Genomics/trends
+MH  - Humans
+MH  - Metabolomics/trends
+MH  - Microbiota
+MH  - Nutrigenomics/*trends
+MH  - Proteomics/trends
+PMC - PMC7996781
+OTO - NOTNLM
+OT  - diet
+OT  - metabolomics
+OT  - microbiome
+OT  - microbiomics
+OT  - nutrigenomics
+OT  - proteomics
+OT  - rheumatoid arthritis
+EDAT- 2021/03/04 06:00
+MHDA- 2021/05/11 06:00
+CRDT- 2021/03/03 01:01
+PHST- 2021/01/07 00:00 [received]
+PHST- 2021/02/16 00:00 [revised]
+PHST- 2021/02/24 00:00 [accepted]
+PHST- 2021/03/03 01:01 [entrez]
+PHST- 2021/03/04 06:00 [pubmed]
+PHST- 2021/05/11 06:00 [medline]
+AID - nu13030763 [pii]
+AID - 10.3390/nu13030763 [doi]
+PST - epublish
+SO  - Nutrients. 2021 Feb 26;13(3). pii: nu13030763. doi: 10.3390/nu13030763.
+
+PMID- 32931955
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211104
+LR  - 20211104
+IS  - 1567-7257 (Electronic)
+IS  - 1567-1348 (Linking)
+VI  - 85
+DP  - 2020 Nov
+TI  - Subtractive proteomics and immunoinformatics approaches to explore Bartonella
+      bacilliformis proteome (virulence factors) to design B and T cell multi-epitope
+      subunit vaccine.
+PG  - 104551
+LID - S1567-1348(20)30382-8 [pii]
+LID - 10.1016/j.meegid.2020.104551 [doi]
+AB  - Bartonella bacilliformis a gram-negative facultative aerobe responsible for the
+      Carrion's disease widely distributed in Ecuador, Peru, and Colombia with a high
+      mortality rate when no specific treatment is received. B bacilliformis is
+      transmitted by Sand fly (Lutzomyia verrucarum) to healthy individuals.
+      Immunoinformatic and subtractive proteomics approaches were employed in this
+      study to prioritize the best candidates for vaccine designing. These approaches
+      resulted in five vaccine candidates, flagellar biosynthetic protein (Uniprot ID: 
+      A1UTU1), heme exporter protein C (UniProt ID: A1UU82), Cytochrome c-type
+      biogenesis protein (Uniprot ID: A1URZ7), Hemin ABC transporter (Uniprot ID:
+      A1US20) and Phosphatidate cytidylyltransferase (Uniprot ID: A1USE3). The
+      mentioned proteins are antigenic and essential for pathogen survival. A range of 
+      immune-informatics tools was applied for the prediction of B and T cell epitopes 
+      for the vaccine candidate proteins. In-silico vaccine was constructed using
+      carefully evaluated epitopes and consequently modeled for docking with human
+      Toll-like receptor 4. TLR-4 agonist 50S ribosomal protein L7/L12 (UniproKB ID;
+      P9WHE3) was linked to the vaccine as an adjuvant to boost immune response towards
+      the vaccine. For stability evaluation of the vaccine-TLR-4 docked complex, MD
+      simulations were performed. The final vaccine was back-translated and cloned in
+      Eschericia coli to attain the maximal expression of the vaccine protein. The
+      maximal expression was ensured, and the CAI score of 0.96 was reported. The
+      current vaccine requires future experimental validation to confirm its
+      effectiveness. The vaccine developed will be helpful to protect against B
+      bacilliformis associated infections.
+CI  - Copyright (c) 2020 Elsevier B.V. All rights reserved.
+FAU - Gul, Hina
+AU  - Gul H
+AD  - Centre for Biotechnology and Microbiology, University of Swat, Swat, Khyber
+      Pakhtunkhwa, Pakistan.
+FAU - Ali, Syed Shujait
+AU  - Ali SS
+AD  - Centre for Biotechnology and Microbiology, University of Swat, Swat, Khyber
+      Pakhtunkhwa, Pakistan. Electronic address: shujaitswati@uswat.edu.pk.
+FAU - Saleem, Shoaib
+AU  - Saleem S
+AD  - National Center for Bioinformatics, Quaid-e-Azam University, Islamabad, Pakistan.
+FAU - Khan, Shahzeb
+AU  - Khan S
+AD  - Centre for Biotechnology and Microbiology, University of Swat, Swat, Khyber
+      Pakhtunkhwa, Pakistan.
+FAU - Khan, Jafar
+AU  - Khan J
+AD  - Centre for Biotechnology and Microbiology, University of Swat, Swat, Khyber
+      Pakhtunkhwa, Pakistan. Electronic address: Jafar@uswat.edu.pk.
+FAU - Wadood, Abdul
+AU  - Wadood A
+AD  - Department of Biochemistry, Abdul Wali Khan University, Mardan, Khyber
+      Pakhtunkhwa, Pakistan. Electronic address: awadood@awkum.edu.pk.
+FAU - Rehman, Ashfaq Ur
+AU  - Rehman AU
+AD  - Department of Bioinformatics and Biological statistics, School of Life Sciences
+      and Biotechnology, Shanghai Jiao Tong University, Shanghai 200240, PR China.
+      Electronic address: raysjtu@sjtu.edu.cn.
+FAU - Ullah, Zia
+AU  - Ullah Z
+AD  - Centre for Biotechnology and Microbiology, University of Swat, Swat, Khyber
+      Pakhtunkhwa, Pakistan.
+FAU - Ali, Shahid
+AU  - Ali S
+AD  - Centre for Biotechnology and Microbiology, University of Swat, Swat, Khyber
+      Pakhtunkhwa, Pakistan. Electronic address: shahidali@uswat.edu.pk.
+FAU - Khan, Haji
+AU  - Khan H
+AD  - Centre for Biotechnology and Microbiology, University of Swat, Swat, Khyber
+      Pakhtunkhwa, Pakistan.
+FAU - Hussain, Zahid
+AU  - Hussain Z
+AD  - Centre for Biotechnology and Microbiology, University of Swat, Swat, Khyber
+      Pakhtunkhwa, Pakistan. Electronic address: zahidhussain@uswat.edu.pk.
+FAU - Akbar, Fazal
+AU  - Akbar F
+AD  - Centre for Biotechnology and Microbiology, University of Swat, Swat, Khyber
+      Pakhtunkhwa, Pakistan. Electronic address: fazalakbar@uswat.edu.pk.
+FAU - Khan, Abbas
+AU  - Khan A
+AD  - Department of Bioinformatics and Biological statistics, School of Life Sciences
+      and Biotechnology, Shanghai Jiao Tong University, Shanghai 200240, PR China.
+      Electronic address: abbaskhan@sjtu.edu.cn.
+FAU - Wei, Dong-Qing
+AU  - Wei DQ
+AD  - Department of Bioinformatics and Biological statistics, School of Life Sciences
+      and Biotechnology, Shanghai Jiao Tong University, Shanghai 200240, PR China;
+      State Key Laboratory of Microbial Metabolism, Shanghai-Islamabad-Belgrade Joint
+      Innovation Center on Antibacterial Resistances, Joint Laboratory of International
+      Cooperation in Metabolic and Developmental Sciences, Ministry of Education and
+      School of Life Sciences and Biotechnology, Shanghai Jiao Tong University,
+      Shanghai 200030, PR China; Peng Cheng Laboratory, Vanke Cloud City Phase I
+      Building 8, Xili Street, Nashan District, Shenzhen, Guangdong 518055, PR China.
+      Electronic address: dqwei@sjtu.edu.cn.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20200912
+PL  - Netherlands
+TA  - Infect Genet Evol
+JT  - Infection, genetics and evolution : journal of molecular epidemiology and
+      evolutionary genetics in infectious diseases
+JID - 101084138
+RN  - 0 (Bacterial Vaccines)
+RN  - 0 (Epitopes)
+RN  - 0 (Epitopes, B-Lymphocyte)
+RN  - 0 (Epitopes, T-Lymphocyte)
+RN  - 0 (Proteome)
+RN  - 0 (Virulence Factors)
+SB  - IM
+MH  - Bacterial Vaccines/genetics/*immunology
+MH  - Bartonella Infections/immunology/*microbiology/prevention & control
+MH  - Bartonella bacilliformis/immunology/*metabolism/pathogenicity
+MH  - *Computational Biology/methods
+MH  - *Epitopes/chemistry/immunology
+MH  - Epitopes, B-Lymphocyte/chemistry/immunology
+MH  - Epitopes, T-Lymphocyte/chemistry/immunology
+MH  - Host-Pathogen Interactions/immunology
+MH  - Humans
+MH  - Models, Molecular
+MH  - *Proteome
+MH  - *Proteomics
+MH  - Structure-Activity Relationship
+MH  - Vaccinology
+MH  - Virulence Factors/immunology
+OTO - NOTNLM
+OT  - *Bartonella bacilliformis
+OT  - *Docking
+OT  - *Molecular docking
+OT  - *Simulation
+OT  - *Vaccine
+EDAT- 2020/09/16 06:00
+MHDA- 2021/11/05 06:00
+CRDT- 2020/09/15 20:12
+PHST- 2020/04/10 00:00 [received]
+PHST- 2020/08/27 00:00 [revised]
+PHST- 2020/09/07 00:00 [accepted]
+PHST- 2020/09/16 06:00 [pubmed]
+PHST- 2021/11/05 06:00 [medline]
+PHST- 2020/09/15 20:12 [entrez]
+AID - S1567-1348(20)30382-8 [pii]
+AID - 10.1016/j.meegid.2020.104551 [doi]
+PST - ppublish
+SO  - Infect Genet Evol. 2020 Nov;85:104551. doi: 10.1016/j.meegid.2020.104551. Epub
+      2020 Sep 12.
+
+PMID- 32581039
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210614
+LR  - 20210614
+IS  - 1535-9484 (Electronic)
+IS  - 1535-9476 (Linking)
+VI  - 19
+IP  - 9
+DP  - 2020 Sep
+TI  - Proteomics of Galapagos Marine Iguanas Links Function of Femoral Gland Proteins
+      to the Immune System.
+PG  - 1523-1532
+LID - S1535-9476(20)35100-8 [pii]
+LID - 10.1074/mcp.RA120.001947 [doi]
+AB  - Communication between individuals via molecules, termed chemosignaling, is
+      widespread among animal and plant species. However, we lack knowledge on the
+      specific functions of the substances involved for most systems. The femoral gland
+      is an organ that secretes a waxy substance involved in chemical communication in 
+      lizards. Although the lipids and volatile substances secreted by the femoral
+      glands have been investigated in several biochemical studies, the protein
+      composition and functions of secretions remain completely unknown. Applying a
+      proteomic approach, we provide the first attempt to comprehensively characterize 
+      the protein composition of femoral gland secretions from the Galapagos marine
+      iguana. Using samples from several organs, the marine iguana proteome was
+      assembled by next-generation sequencing and MS, resulting in 7513 proteins. Of
+      these, 4305 proteins were present in the femoral gland, including keratins, small
+      serum proteins, and fatty acid-binding proteins. Surprisingly, no proteins with
+      discernible roles in partner recognition or inter-species communication could be 
+      identified. However, we did find several proteins with direct associations to the
+      innate immune system, including lysozyme C, antileukoproteinase (ALP), pulmonary 
+      surfactant protein (SFTPD), and galectin (LGALS1) suggesting that the femoral
+      glands function as an important barrier to infection. Furthermore, we report
+      several novel anti-microbial peptides from the femoral glands that show similar
+      action against Escherichia coli and Bacillus subtilis such as oncocin, a peptide 
+      known for its effectiveness against Gram-negative pathogens. This proteomics data
+      set is a valuable resource for future functional protein analysis and
+      demonstrates that femoral gland secretions also perform functions of the innate
+      immune system.
+CI  - (c) 2020 Tellkamp et al.
+FAU - Tellkamp, Frederik
+AU  - Tellkamp F
+AD  - CECAD Research Center Institute for Genetics, University of Cologne, Cologne,
+      Germany.
+FAU - Lang, Franziska
+AU  - Lang F
+AD  - TRON - Translational Oncology at the University Medical Center of the Johannes
+      Gutenberg University Mainz, Mainz, Germany.
+FAU - Ibanez, Alejandro
+AU  - Ibanez A
+AD  - Department of Comparative Anatomy, Institute of Zoology and Biomedical Research, 
+      Jagiellonian University, Krakow, Poland.
+FAU - Abraham, Lena
+AU  - Abraham L
+AD  - CECAD Research Center Institute for Genetics, University of Cologne, Cologne,
+      Germany.
+FAU - Quezada, Galo
+AU  - Quezada G
+AD  - Direccion Parque Nacional Galapagos, Puerto Ayora, Santa Cruz, Galapagos,
+      Ecuador.
+FAU - Gunther, Stefan
+AU  - Gunther S
+AD  - Max Planck Institute for Heart and Lung Research, Bad Nauheim, Germany.
+FAU - Looso, Mario
+AU  - Looso M
+AD  - Max Planck Institute for Heart and Lung Research, Bad Nauheim, Germany.
+FAU - Tann, Fabian Jannik
+AU  - Tann FJ
+AD  - Institute for Biochemical Engineering and Analytics (IBVA), Giessen, Germany.
+FAU - Muller, Daniela
+AU  - Muller D
+AD  - Institute for Biochemical Engineering and Analytics (IBVA), Giessen, Germany.
+FAU - Cemic, Franz
+AU  - Cemic F
+AD  - Institute for Biochemical Engineering and Analytics (IBVA), Giessen, Germany.
+FAU - Hemberger, Jurgen
+AU  - Hemberger J
+AD  - Institute for Biochemical Engineering and Analytics (IBVA), Giessen, Germany.
+FAU - Steinfartz, Sebastian
+AU  - Steinfartz S
+AD  - Molecular Evolution and Systematics of Animals, University of Leipzig, Leipzig,
+      Germany. Electronic address: steinfartz@uni-leipzig.de.
+FAU - Kruger, Marcus
+AU  - Kruger M
+AD  - CECAD Research Center Institute for Genetics, University of Cologne, Cologne,
+      Germany; Center for Molecular Medicine Cologne (CMMC), University of Cologne,
+      Cologne, Germany. Electronic address: marcus.krueger@uni-koeln.de.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20200624
+PL  - United States
+TA  - Mol Cell Proteomics
+JT  - Molecular & cellular proteomics : MCP
+JID - 101125647
+RN  - 0 (Anti-Infective Agents)
+RN  - 0 (Apoproteins)
+RN  - 0 (Chemotactic Factors)
+RN  - 0 (Galectins)
+RN  - 0 (Proteome)
+RN  - 0 (Pulmonary Surfactant-Associated Proteins)
+RN  - 0 (pulmonary surfactant apoprotein)
+RN  - EC 3.2.1.17 (Muramidase)
+RN  - EC 3.4.- (Endopeptidases)
+RN  - EC 3.4.99.- (Alp protease)
+SB  - IM
+MH  - Animals
+MH  - Anti-Infective Agents/*metabolism/*pharmacology
+MH  - Apoproteins/genetics/metabolism
+MH  - Bacillus subtilis/drug effects
+MH  - Brain/metabolism
+MH  - Chemotactic Factors/genetics/metabolism
+MH  - Ecuador
+MH  - Endopeptidases/genetics/metabolism
+MH  - Escherichia coli/drug effects
+MH  - Galectins/genetics/metabolism
+MH  - Heart/physiology
+MH  - High-Throughput Nucleotide Sequencing
+MH  - Humans
+MH  - Iguanas/genetics/immunology/*metabolism
+MH  - Immune System/*metabolism
+MH  - *Immunity, Innate/genetics
+MH  - Lung/metabolism
+MH  - Muramidase/genetics/metabolism
+MH  - Muscles/metabolism
+MH  - Myocardium/metabolism
+MH  - Organ Specificity
+MH  - Proteome/genetics/immunology/*metabolism
+MH  - Proteomics
+MH  - Pulmonary Surfactant-Associated Proteins/genetics/metabolism
+MH  - Skin/metabolism
+MH  - Tandem Mass Spectrometry
+MH  - *Transcriptome/genetics
+PMC - PMC8143647
+OTO - NOTNLM
+OT  - *Proteomics
+OT  - *animal models
+OT  - *database design
+OT  - *evolution
+OT  - *femoral glands
+OT  - *immune system
+OT  - *marine iguana
+OT  - *protease inhibitor
+OT  - *protease inhibitor protein identification
+OT  - *tissues
+COIS- Conflict of interest-Authors declare no competing interests.
+EDAT- 2020/06/26 06:00
+MHDA- 2021/06/16 06:00
+CRDT- 2020/06/26 06:00
+PHST- 2020/01/28 00:00 [received]
+PHST- 2020/05/11 00:00 [revised]
+PHST- 2020/06/26 06:00 [pubmed]
+PHST- 2021/06/16 06:00 [medline]
+PHST- 2020/06/26 06:00 [entrez]
+AID - S1535-9476(20)35100-8 [pii]
+AID - 10.1074/mcp.RA120.001947 [doi]
+PST - ppublish
+SO  - Mol Cell Proteomics. 2020 Sep;19(9):1523-1532. doi: 10.1074/mcp.RA120.001947.
+      Epub 2020 Jun 24.
+
+PMID- 32462583
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210311
+LR  - 20210311
+IS  - 1940-6029 (Electronic)
+IS  - 1064-3745 (Linking)
+VI  - 2139
+DP  - 2020
+TI  - Dimethyl Labeling-Based Quantitative Proteomics of Recalcitrant Cocoa Pod Tissue.
+PG  - 133-146
+LID - 10.1007/978-1-0716-0528-8_10 [doi]
+AB  - Dimethyl labeling is a type of stable-isotope labeling suitable for creating
+      isotopic variants of peptides and thus be utilized for quantitative proteomics
+      experiments. Labeling is achieved through a reductive amination/alkylation
+      reaction using the low-cost reagents formaldehyde and cyanoborohydride, resulting
+      in dimethylation of free amine groups of Lys and N-termini. Availability of
+      isotopomeric forms of these reagents allows for the generation of up to six
+      different isotopic variants. Here we describe the application of dimethylation to
+      create two isotopic variants, light and heavy, differing in 4 Da, to label the
+      total tryptic digest peptides of cocoa pod extracted from healthy pods from
+      cultivars susceptible and resistant to the fungal disease called "frosty pod"
+      caused by Moniliophthora roreri.
+FAU - Esteve-Sanchez, Yoel
+AU  - Esteve-Sanchez Y
+AD  - Plant Proteomics and Functional Genomics Group, Department of Agrochemistry and
+      Biochemistry. Faculty of Sciences, University of Alicante, Alicante, Spain.
+FAU - Morante-Carriel, Jaime A
+AU  - Morante-Carriel JA
+AD  - Biotechnology and Molecular Biology Group, Quevedo State Technical University,
+      Quevedo, Ecuador.
+FAU - Martinez-Marquez, Ascension
+AU  - Martinez-Marquez A
+AD  - Plant Proteomics and Functional Genomics Group, Department of Agrochemistry and
+      Biochemistry. Faculty of Sciences, University of Alicante, Alicante, Spain.
+FAU - Selles-Marchart, Susana
+AU  - Selles-Marchart S
+AD  - Plant Proteomics and Functional Genomics Group, Department of Agrochemistry and
+      Biochemistry. Faculty of Sciences, University of Alicante, Alicante, Spain.
+FAU - Bru-Martinez, Roque
+AU  - Bru-Martinez R
+AD  - Plant Proteomics and Functional Genomics Group, Department of Agrochemistry and
+      Biochemistry. Faculty of Sciences, University of Alicante, Alicante, Spain.
+      roque.bru@ua.es.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Methods Mol Biol
+JT  - Methods in molecular biology (Clifton, N.J.)
+JID - 9214969
+RN  - 0 (Plant Extracts)
+RN  - 0 (Proteome)
+RN  - Moniliophthora roreri
+SB  - IM
+MH  - Agaricales/pathogenicity
+MH  - Amination/physiology
+MH  - Cacao/*metabolism/microbiology
+MH  - Isotope Labeling/methods
+MH  - Plant Diseases/microbiology
+MH  - Plant Extracts/metabolism
+MH  - Proteome/*metabolism
+MH  - Proteomics/methods
+OTO - NOTNLM
+OT  - *Cocoa pod
+OT  - *Dimethyl labeling
+OT  - *Fungal disease
+OT  - *Moniliophthora roreri
+OT  - *Plant proteomics
+OT  - *Quantitative proteomics
+OT  - *Stable-isotope labeling
+EDAT- 2020/05/29 06:00
+MHDA- 2021/03/12 06:00
+CRDT- 2020/05/29 06:00
+PHST- 2020/05/29 06:00 [entrez]
+PHST- 2020/05/29 06:00 [pubmed]
+PHST- 2021/03/12 06:00 [medline]
+AID - 10.1007/978-1-0716-0528-8_10 [doi]
+PST - ppublish
+SO  - Methods Mol Biol. 2020;2139:133-146. doi: 10.1007/978-1-0716-0528-8_10.
+
+PMID- 32451213
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210427
+LR  - 20210427
+IS  - 1873-2518 (Electronic)
+IS  - 0264-410X (Linking)
+VI  - 38
+IP  - 30
+DP  - 2020 Jun 19
+TI  - Immunogenicity and protection induced by recombinant Toxocara canis proteins in a
+      murine model of toxocariasis.
+PG  - 4762-4772
+LID - S0264-410X(20)30589-2 [pii]
+LID - 10.1016/j.vaccine.2020.04.072 [doi]
+AB  - Toxocariasis, a natural helminth infection of dogs and cats caused by Toxocara
+      canis and T. cati, respectively, that are transmitted to mammals, including
+      humans. Infection control is based currently on periodic antihelmintic treatment 
+      and there is a need for the development of vaccines to prevent this infection.
+      MATERIALS AND METHODS: Eight potential vaccine candidate T. canis recombinant
+      proteins were identified by in silico (rTcGPRs, rTcCad, rTcVcan, rTcCyst) and
+      larval proteomics (rTES26, rTES32, rMUC-3 and rCTL-4) analyses. Immunogenicity
+      and protection against infectious challenge for seven of these antigens were
+      determined in a murine model of toxocariasis. C57BL/6 female mice were immunized 
+      with each of or combinations of recombinant antigens prior to challenge with 500 
+      T. canis embryonated eggs. Levels of specific antibodies (IgG, IgG1, IgG2a and
+      IgE) in sera and cytokines (IL-5, INF- and IL-10) produced by antigens-stimulated
+      splenocytes, were measured. Presence of specific antibodies to the molecules was 
+      measured in sera of T. canis-seropositive dogs and humans. RESULTS: All seven
+      molecules were immunogenic in immunized mice; all stimulated significantly
+      elevated levels of specific IgG, IgG1 or IgG2a and six were associated with
+      elevated levels of specific IgE; all induced elevated production of IFN- and
+      IL-10 by splenocytes, but only the in silico-identified membrane-associated
+      recombinants (rTcCad, rTcVcan, and rTcCyst) induced significantly increased IL-5 
+      production. Vaccination with two of the latter (rTcCad and rTcVcan) reduced
+      larval loads in the T. canis challenged mice by 54.3% and 53.9% (P < 0.0001),
+      respectively, compared to unimmunized controls. All seven recombinants were
+      recognized by T. canis-seropositive dog and human sera. CONCLUSION: The
+      identification of vaccine targets by in silico analysis was an effective strategy
+      to identify immunogenic T. canis proteins capable of reducing larval burdens
+      following challenge with the parasite. Two recombinant proteins, rTcCad and
+      rTcVcan, were identified as promising vaccine candidates for canine toxocariasis.
+CI  - Copyright (c) 2020 Elsevier Ltd. All rights reserved.
+FAU - Salazar Garces, Luis Fabian
+AU  - Salazar Garces LF
+AD  - Institute of Health Sciences, Federal University of Bahia, Salvador, Bahia,
+      Brazil.
+FAU - Santiago, Leonardo Freire
+AU  - Santiago LF
+AD  - Institute of Health Sciences, Federal University of Bahia, Salvador, Bahia,
+      Brazil.
+FAU - Santos, Sara Patricia de Oliveira
+AU  - Santos SPO
+AD  - Institute of Health Sciences, Federal University of Bahia, Salvador, Bahia,
+      Brazil.
+FAU - Jaramillo Hernandez, Dumar Alexander
+AU  - Jaramillo Hernandez DA
+AD  - Institute of Health Sciences, Federal University of Bahia, Salvador, Bahia,
+      Brazil; Animal Sciences College, University of the Llanos, Villavicencio, Meta,
+      Colombia. Electronic address: dumar.jaramillo@unillanos.edu.co.
+FAU - da Silva, Marcia Barbosa
+AU  - da Silva MB
+AD  - Institute of Health Sciences, Federal University of Bahia, Salvador, Bahia,
+      Brazil.
+FAU - Alves, Vitor Dos Santos
+AU  - Alves VDS
+AD  - Institute of Health Sciences, Federal University of Bahia, Salvador, Bahia,
+      Brazil.
+FAU - Silveira, Elisania Fontes
+AU  - Silveira EF
+AD  - Institute of Health Sciences, Federal University of Bahia, Salvador, Bahia,
+      Brazil.
+FAU - Barrouin-Melo, Stella Maria
+AU  - Barrouin-Melo SM
+AD  - Department of Veterinary Anatomy, Pathology and Clinics, School of Veterinary
+      Medicine and Zootechny, Federal University of Bahia, Salvador, Bahia 40170-110,
+      Brazil. Electronic address: barrouin@ufba.br.
+FAU - Cooper, Philip John
+AU  - Cooper PJ
+AD  - Institute of Infection and Immunity, St George's University of London, London,
+      United Kingdom; Facultad de Ciencias Medicas, de la Salud y la Vida, Universidad 
+      Internacional del Ecuador, Quito, Ecuador. Electronic address:
+      pcooper@sgul.ac.uk.
+FAU - Pacheco, Luis Gustavo Carvalho
+AU  - Pacheco LGC
+AD  - Institute of Health Sciences, Federal University of Bahia, Salvador, Bahia,
+      Brazil.
+FAU - Pinheiro, Carina da Silva
+AU  - Pinheiro CDS
+AD  - Institute of Health Sciences, Federal University of Bahia, Salvador, Bahia,
+      Brazil.
+FAU - Alcantara-Neves, Neuza Maria
+AU  - Alcantara-Neves NM
+AD  - Institute of Health Sciences, Federal University of Bahia, Salvador, Bahia,
+      Brazil. Electronic address: neuzalcantara@gmail.com.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20200523
+PL  - Netherlands
+TA  - Vaccine
+JT  - Vaccine
+JID - 8406899
+RN  - 0 (Recombinant Proteins)
+SB  - IM
+MH  - Animals
+MH  - *Cat Diseases
+MH  - Cats
+MH  - Disease Models, Animal
+MH  - *Dog Diseases
+MH  - Dogs
+MH  - Female
+MH  - Mice
+MH  - Mice, Inbred C57BL
+MH  - Recombinant Proteins/genetics
+MH  - *Toxocara canis
+MH  - *Toxocariasis/prevention & control
+OTO - NOTNLM
+OT  - *In silico analysis
+OT  - *Recombinant proteins
+OT  - *Toxocara canis
+OT  - *Vaccine candidates
+COIS- Declaration of Competing Interest The authors declare that they have no known
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this paper.
+EDAT- 2020/05/27 06:00
+MHDA- 2021/04/28 06:00
+CRDT- 2020/05/27 06:00
+PHST- 2019/11/11 00:00 [received]
+PHST- 2020/04/24 00:00 [revised]
+PHST- 2020/04/27 00:00 [accepted]
+PHST- 2020/05/27 06:00 [pubmed]
+PHST- 2021/04/28 06:00 [medline]
+PHST- 2020/05/27 06:00 [entrez]
+AID - S0264-410X(20)30589-2 [pii]
+AID - 10.1016/j.vaccine.2020.04.072 [doi]
+PST - ppublish
+SO  - Vaccine. 2020 Jun 19;38(30):4762-4772. doi: 10.1016/j.vaccine.2020.04.072. Epub
+      2020 May 23.
+
+PMID- 32362928
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20200928
+IS  - 1678-9199 (Print)
+IS  - 1678-9180 (Linking)
+VI  - 26
+DP  - 2020
+TI  - Venomics and antivenomics of the poorly studied Brazil's lancehead, Bothrops
+      brazili (Hoge, 1954), from the Brazilian State of Para.
+PG  - e20190103
+LID - 10.1590/1678-9199-JVATITD-2019-0103 [doi]
+AB  - Background: The Brazil's lancehead, Bothrops brazili, is a poorly studied pit
+      viper distributed in lowlands of the equatorial rainforests of southern Colombia,
+      northeastern Peru, eastern Ecuador, southern and southeastern Venezuela, Guyana, 
+      Suriname, French Guiana, Brazil, and northern Bolivia. Few studies have been
+      reported on toxins isolated from venom of Ecuadorian and Brazilian B. brazili.
+      The aim of the present study was to elucidate the qualitative and quantitative
+      protein composition of B. brazili venom from Para (Brazil), and to carry out a
+      comparative antivenomics assessment of the immunoreactivity of the Brazilian
+      antibothropic pentavalent antivenom [soro antibotropico (SAB) in Portuguese]
+      against the venoms of B. brazili and reference species, B. jararaca. Methods: We 
+      have applied a quantitative snake venomics approach, including reverse-phase and 
+      two-dimensional electrophoretic decomplexation of the venom toxin arsenal,
+      LC-ESI-MS mass profiling and peptide-centric MS/MS proteomic analysis, to unveil 
+      the overall protein composition of B. brazili venom from Para (Brazil). Using
+      third-generation antivenomics, the specific and paraspecific immunoreactivity of 
+      the Brazilian SAB against homologous (B. jararaca) and heterologous (B. brazili) 
+      venoms was investigated. Results: The venom proteome of the Brazil's lancehead
+      (Para) is predominantly composed of two major and three minor acidic (19%) and
+      two major and five minor basic (14%) phospholipase A2 molecules; 7-11 snake venom
+      metalloproteinases of classes PI (21%) and PIII (6%); 10-12 serine proteinases
+      (14%), and 1-2 L-amino acid oxidases (6%). Other toxins, including two
+      cysteine-rich secretory proteins, one C-type lectin-like molecule, one nerve
+      growth factor, one 5'-nucleotidase, one phosphodiesterase, one phospholipase B,
+      and one glutaminyl cyclase molecule, represent together less than 2.7% of the
+      venom proteome. Third generation antivenomics profile of the Brazilian
+      pentabothropic antivenom showed paraspecific immunoreactivity against all the
+      toxin classes of B. brazili venom, with maximal binding capacity of 132.2 mg
+      venom/g antivenom. This figure indicates that 19% of antivenom's F(ab')2
+      antibodies bind B. brazili venom toxins. Conclusion: The proteomics outcome
+      contribute to a deeper insight into the spectrum of toxins present in the venom
+      of the Brazil's lancehead, and rationalize the pathophysiology underlying this
+      snake bite envenomings. The comparative qualitative and quantitative
+      immunorecognition profile of the Brazilian pentabothropic antivenom toward the
+      venom toxins of B. brazili and B. jararaca (the reference venom for assessing the
+      bothropic antivenom's potency in Brazil), provides clues about the proper use of 
+      the Brazilian antibothropic polyvalent antivenom in the treatment of bites by the
+      Brazil's lancehead.
+FAU - Sanz, Libia
+AU  - Sanz L
+AD  - Evolutionary and Translational Venomics Laboratory, Spanish National Research
+      Council (CSIC), Valencia, Spain.
+FAU - Perez, Alicia
+AU  - Perez A
+AD  - Evolutionary and Translational Venomics Laboratory, Spanish National Research
+      Council (CSIC), Valencia, Spain.
+FAU - Quesada-Bernat, Sarai
+AU  - Quesada-Bernat S
+AD  - Evolutionary and Translational Venomics Laboratory, Spanish National Research
+      Council (CSIC), Valencia, Spain.
+FAU - Diniz-Sousa, Rafaela
+AU  - Diniz-Sousa R
+AD  - Center for the Study of Biomolecules Applied to Health (CEBio), Oswaldo Cruz
+      Foundation Rondonia, Porto Velho, RO, Brazil.
+AD  - Graduate Program in Experimental Biology (PGBIOEXP), Federal University of
+      Rondonia (UNIR), Porto Velho, RO, Brazil.
+AD  - Sao Lucas University Center (UniSL), Porto Velho, RO, Brazil.
+FAU - Calderon, Leonardo A
+AU  - Calderon LA
+AD  - Center for the Study of Biomolecules Applied to Health (CEBio), Oswaldo Cruz
+      Foundation Rondonia, Porto Velho, RO, Brazil.
+AD  - Graduate Program in Experimental Biology (PGBIOEXP), Federal University of
+      Rondonia (UNIR), Porto Velho, RO, Brazil.
+AD  - Graduate Program in Biodiversity and Biotechnology, BIONORTE Network, Porto
+      Velho, RO, Brazil.
+AD  - Aparicio Carvalho University Center (FIMCA), Porto Velho, RO, Brazil.
+FAU - Soares, Andreimar M
+AU  - Soares AM
+AD  - Center for the Study of Biomolecules Applied to Health (CEBio), Oswaldo Cruz
+      Foundation Rondonia, Porto Velho, RO, Brazil.
+AD  - Graduate Program in Experimental Biology (PGBIOEXP), Federal University of
+      Rondonia (UNIR), Porto Velho, RO, Brazil.
+AD  - Sao Lucas University Center (UniSL), Porto Velho, RO, Brazil.
+AD  - Graduate Program in Biodiversity and Biotechnology, BIONORTE Network, Porto
+      Velho, RO, Brazil.
+AD  - National Institute of Science and Technology in Epidemiology of the Western
+      Amazonia, (INCT-EpiAmO), Porto Velho, RO, Brazil.
+FAU - Calvete, Juan J
+AU  - Calvete JJ
+AUID- ORCID: 0000-0001-5026-3122
+AD  - Evolutionary and Translational Venomics Laboratory, Spanish National Research
+      Council (CSIC), Valencia, Spain.
+FAU - Caldeira, Cleopatra A S
+AU  - Caldeira CAS
+AUID- ORCID: 0000-0003-1670-5227
+AD  - Center for the Study of Biomolecules Applied to Health (CEBio), Oswaldo Cruz
+      Foundation Rondonia, Porto Velho, RO, Brazil.
+AD  - Graduate Program in Experimental Biology (PGBIOEXP), Federal University of
+      Rondonia (UNIR), Porto Velho, RO, Brazil.
+AD  - Graduate Program in Biodiversity and Biotechnology, BIONORTE Network, Porto
+      Velho, RO, Brazil.
+LA  - eng
+PT  - Journal Article
+DEP - 20200417
+PL  - Brazil
+TA  - J Venom Anim Toxins Incl Trop Dis
+JT  - The journal of venomous animals and toxins including tropical diseases
+JID - 101201501
+PMC - PMC7179968
+OTO - NOTNLM
+OT  - Bothrops brazili
+OT  - Brazilian antibothropic polyvalent antivenom
+OT  - Snake venom
+OT  - Third-generation antivenomics
+OT  - Venomics
+COIS- Competing interests: The authors declare that they have no competing interests.
+EDAT- 2020/05/05 06:00
+MHDA- 2020/05/05 06:01
+CRDT- 2020/05/05 06:00
+PHST- 2019/12/19 00:00 [received]
+PHST- 2020/02/28 00:00 [accepted]
+PHST- 2020/05/05 06:00 [entrez]
+PHST- 2020/05/05 06:00 [pubmed]
+PHST- 2020/05/05 06:01 [medline]
+AID - 10.1590/1678-9199-JVATITD-2019-0103 [doi]
+PST - epublish
+SO  - J Venom Anim Toxins Incl Trop Dis. 2020 Apr 17;26:e20190103. doi:
+      10.1590/1678-9199-JVATITD-2019-0103. eCollection 2020.
+
+PMID- 32247171
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210618
+LR  - 20210618
+IS  - 1876-7737 (Electronic)
+IS  - 1874-3919 (Linking)
+VI  - 220
+DP  - 2020 May 30
+TI  - Snake venomics, experimental toxic activities and clinical characteristics of
+      human envenomation by Bothrocophias myersi (Serpentes: Viperidae) from Colombia.
+PG  - 103758
+LID - S1874-3919(20)30126-3 [pii]
+LID - 10.1016/j.jprot.2020.103758 [doi]
+AB  - Venoms of the viperid genus Bothrocophias, restricted to Colombia and Ecuador,
+      are poorly known. Only a proteomic analysis of B. campbelli venom has been
+      described. In this work we present a proteomic study of B. myersi venom, its
+      biological activities, and describe the clinical characteristics of a patient
+      bitten by this species. B. myersi venom mainly consists of phospholipases A2
+      (54.0%) and metalloproteinases (21.5%), among proteins of twelve different
+      families. This venom exhibited proteolytic, phospholipase A2, myotoxic,
+      edema-forming, and lethal activities. Enzymatic activities did not show
+      statistically significant differences in comparison to Bothrops asper venom, but 
+      B. myersi venom displayed weaker hemorrhagic and coagulant activities. Polyvalent
+      Viperidae antivenoms produced in Costa Rica and Colombia cross-recognized B.
+      myersi venom by ELISA, however only the latter neutralized its lethal activity in
+      mice when tested at a ratio of 3mg venom/mL antivenom, suggesting it should be
+      useful to treat envenomings inflicted by this species. A patient bitten by B.
+      myersi developed edema and myotoxicity, evidenced by an increased creatine kinase
+      activity in plasma. A good correlation was found between experimental biological 
+      activities of Bothrocophias myersi venom and the clinical features of an
+      envenoming provoked by this species. SIGNIFICANCE: The proteomic
+      characterization, toxicity, immunorecognition and neutralization of Bothrocophias
+      myersi venom have been determined for the first time. The distribution of this
+      pit viper is restricted to Colombia and Ecuador, and its venom contains a high
+      proportion of phospholipases A2 and metalloproteinases. The polyvalent antivenom 
+      produced in Colombia neutralized the lethal activity of this venom in vivo, and
+      therefore should be effective in the treatment of envenomings by this snake.
+CI  - Copyright (c) 2020 Elsevier B.V. All rights reserved.
+FAU - Pereanez, Jaime Andres
+AU  - Pereanez JA
+AD  - Programa de Ofidismo/Escorpionismo-Toxinologia, alternativas terapeuticas y
+      alimentarias, Departamento de Farmacia, Facultad de Ciencias Farmaceuticas y
+      Alimentarias, Universidad de Antioquia UdeA, Calle 70 No. 52-21, Medellin,
+      Colombia. Electronic address: jaime.pereanez@udea.edu.co.
+FAU - Preciado, Lina Maria
+AU  - Preciado LM
+AD  - Programa de Ofidismo/Escorpionismo-Toxinologia, alternativas terapeuticas y
+      alimentarias, Departamento de Farmacia, Facultad de Ciencias Farmaceuticas y
+      Alimentarias, Universidad de Antioquia UdeA, Calle 70 No. 52-21, Medellin,
+      Colombia.
+FAU - Fernandez, Julian
+AU  - Fernandez J
+AD  - Instituto Clodomiro Picado, Facultad de Microbiologia, Universidad de Costa Rica,
+      San Jose 11501, Costa Rica.
+FAU - Camacho, Erika
+AU  - Camacho E
+AD  - Instituto Clodomiro Picado, Facultad de Microbiologia, Universidad de Costa Rica,
+      San Jose 11501, Costa Rica.
+FAU - Lomonte, Bruno
+AU  - Lomonte B
+AD  - Instituto Clodomiro Picado, Facultad de Microbiologia, Universidad de Costa Rica,
+      San Jose 11501, Costa Rica.
+FAU - Castro, Fernando
+AU  - Castro F
+AD  - Laboratorio de Herpetologia y Toxinologia, Facultad de Salud, Universidad del
+      Valle, Cali, Colombia.
+FAU - Canas, Carlos Alberto
+AU  - Canas CA
+AD  - Unit of Rheumatology, Fundacion Valle del Lili & Universidad Icesi, Cali,
+      Colombia.
+FAU - Galvis, Carlos
+AU  - Galvis C
+AD  - Fundacion Zoologico de Cali, Valle del Cauca, Cali, Colombia.
+FAU - Castano, Santiago
+AU  - Castano S
+AD  - Laboratorio de Herpetologia y Toxinologia, Facultad de Salud, Universidad del
+      Valle, Cali, Colombia.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20200401
+PL  - Netherlands
+TA  - J Proteomics
+JT  - Journal of proteomics
+JID - 101475056
+RN  - 0 (Antivenins)
+RN  - 0 (Crotalid Venoms)
+SB  - IM
+MH  - Animals
+MH  - Antivenins
+MH  - Colombia
+MH  - *Crotalid Venoms
+MH  - *Crotalinae
+MH  - Humans
+MH  - Mice
+MH  - Proteomics
+MH  - *Viperidae
+OTO - NOTNLM
+OT  - *Bothrocophias
+OT  - *Colombia
+OT  - *Proteomics
+OT  - *Snake venom
+OT  - *Snakebite
+COIS- Declaration of Competing Interest None.
+EDAT- 2020/04/05 06:00
+MHDA- 2021/06/22 06:00
+CRDT- 2020/04/05 06:00
+PHST- 2020/01/25 00:00 [received]
+PHST- 2020/02/21 00:00 [revised]
+PHST- 2020/03/23 00:00 [accepted]
+PHST- 2020/04/05 06:00 [pubmed]
+PHST- 2021/06/22 06:00 [medline]
+PHST- 2020/04/05 06:00 [entrez]
+AID - S1874-3919(20)30126-3 [pii]
+AID - 10.1016/j.jprot.2020.103758 [doi]
+PST - ppublish
+SO  - J Proteomics. 2020 May 30;220:103758. doi: 10.1016/j.jprot.2020.103758. Epub 2020
+      Apr 1.
+
+PMID- 32221920
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210201
+LR  - 20210201
+IS  - 1940-6029 (Electronic)
+IS  - 1064-3745 (Linking)
+VI  - 2116
+DP  - 2020
+TI  - Genome-Wide Proteomics and Phosphoproteomics Analysis of Trypanosoma cruzi During
+      Differentiation.
+PG  - 139-159
+LID - 10.1007/978-1-0716-0294-2_11 [doi]
+AB  - Trypanosoma cruzi is a pathogenic protozoan that still has an impact on public
+      health, despite the decrease in the number of infection cases along the years. T.
+      cruzi possesses an heteroxenic life cycle in which it differentiates in at least 
+      four forms. Among the differentiation processes, metacyclogenesis has been
+      exploited in different views by researchers. An intriguing question that rises is
+      how metacyclogenesis is triggered and controlled by cell signaling and which are 
+      the differentially expressed proteins and posttranslational modifications
+      involved in this process. An important cell signaling pathway is the protein
+      phosphorylation, and it is reinforced in T. cruzi in which the gene expression
+      control occurs almost exclusively posttranscriptionally. Additionally, the number
+      of protein kinases in T. cruzi is relatively high compared to other organisms. A 
+      way to approach these questions is evaluating the cells through phosphoproteomics
+      and proteomics. In this chapter, we will describe the steps from the cell protein
+      extraction, digestion and fractionation, phosphopeptide enrichment, to LC-MS/MS
+      analysis as well as a brief overview on peptide identification. In addition, a
+      published method for in vitro metacyclogenesis will be detailed.
+FAU - Batista, Michel
+AU  - Batista M
+AD  - Carlos Chagas Institute, Fiocruz Parana, Curitiba, Parana, Brazil.
+FAU - Amorim, Juliana Carolina
+AU  - Amorim JC
+AD  - Faculty of Medicine, Catholic University of Cuenca, Cuenca, Azuay, Ecuador.
+FAU - Lucena, Aline Castro Rodrigues
+AU  - Lucena ACR
+AD  - Carlos Chagas Institute, Fiocruz Parana, Curitiba, Parana, Brazil.
+FAU - Kugeratski, Fernanda Grande
+AU  - Kugeratski FG
+AD  - Department of Cancer Biology, Metastasis Research Center, University of Texas MD 
+      Anderson Cancer Center, Houston, TX, USA.
+FAU - de Paula Lima, Carla Vanessa
+AU  - de Paula Lima CV
+AD  - Molecular Biology Institute of Parana, Curitiba, Parana, Brazil.
+FAU - Marchini, Fabricio Klerynton
+AU  - Marchini FK
+AD  - Carlos Chagas Institute, Fiocruz Parana, Curitiba, Parana, Brazil.
+      fabricio.marchini@fiocruz.br.
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Methods Mol Biol
+JT  - Methods in molecular biology (Clifton, N.J.)
+JID - 9214969
+RN  - 0 (Phosphoproteins)
+RN  - 0 (Protozoan Proteins)
+SB  - IM
+MH  - Chromatography, Liquid/methods
+MH  - Gene Expression Regulation, Developmental
+MH  - Life Cycle Stages/genetics
+MH  - Parasitology/methods
+MH  - Phosphoproteins/*analysis/metabolism
+MH  - Phosphorylation/physiology
+MH  - Proteomics/*methods
+MH  - Protozoan Proteins/*analysis/metabolism
+MH  - Tandem Mass Spectrometry/methods
+MH  - Trypanosoma cruzi/*physiology
+OTO - NOTNLM
+OT  - *LC-MS/MS
+OT  - *Mass spectrometry
+OT  - *Metacyclogenesis
+OT  - *Phosphoproteomics
+OT  - *Proteomics
+OT  - *Trypanosoma cruzi
+EDAT- 2020/03/30 06:00
+MHDA- 2021/02/02 06:00
+CRDT- 2020/03/30 06:00
+PHST- 2020/03/30 06:00 [entrez]
+PHST- 2020/03/30 06:00 [pubmed]
+PHST- 2021/02/02 06:00 [medline]
+AID - 10.1007/978-1-0716-0294-2_11 [doi]
+PST - ppublish
+SO  - Methods Mol Biol. 2020;2116:139-159. doi: 10.1007/978-1-0716-0294-2_11.
+
+PMID- 31138640
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200706
+LR  - 20200706
+IS  - 1477-9145 (Electronic)
+IS  - 0022-0949 (Linking)
+VI  - 222
+IP  - Pt 12
+DP  - 2019 Jun 20
+TI  - Molecular physiology of chemical defenses in a poison frog.
+LID - jeb204149 [pii]
+LID - 10.1242/jeb.204149 [doi]
+AB  - Poison frogs sequester small molecule lipophilic alkaloids from their diet of
+      leaf litter arthropods for use as chemical defenses against predation. Although
+      the dietary acquisition of chemical defenses in poison frogs is well documented, 
+      the physiological mechanisms of alkaloid sequestration has not been investigated.
+      Here, we used RNA sequencing and proteomics to determine how alkaloids impact
+      mRNA or protein abundance in the little devil frog (Oophaga sylvatica), and
+      compared wild-caught chemically defended frogs with laboratory frogs raised on an
+      alkaloid-free diet. To understand how poison frogs move alkaloids from their diet
+      to their skin granular glands, we focused on measuring gene expression in the
+      intestines, skin and liver. Across these tissues, we found many differentially
+      expressed transcripts involved in small molecule transport and metabolism, as
+      well as sodium channels and other ion pumps. We then used proteomic approaches to
+      quantify plasma proteins, where we found several protein abundance differences
+      between wild and laboratory frogs, including the amphibian neurotoxin binding
+      protein saxiphilin. Finally, because many blood proteins are synthesized in the
+      liver, we used thermal proteome profiling as an untargeted screen for soluble
+      proteins that bind the alkaloid decahydroquinoline. Using this approach, we
+      identified several candidate proteins that interact with this alkaloid, including
+      saxiphilin. These transcript and protein abundance patterns suggest that the
+      presence of alkaloids influences frog physiology and that small molecule
+      transport proteins may be involved in toxin bioaccumulation in dendrobatid poison
+      frogs.
+CI  - (c) 2019. Published by The Company of Biologists Ltd.
+FAU - Caty, Stephanie N
+AU  - Caty SN
+AD  - Department of Biology, Stanford University, Stanford, CA 94305, USA.
+FAU - Alvarez-Buylla, Aurora
+AU  - Alvarez-Buylla A
+AUID- ORCID: 0000-0001-6256-0300
+AD  - Department of Biology, Stanford University, Stanford, CA 94305, USA.
+FAU - Byrd, Gary D
+AU  - Byrd GD
+AUID- ORCID: 0000-0002-5437-9293
+AD  - Small Molecule Mass Spectrometry Facility, Harvard University, Cambridge, MA
+      02138, USA.
+FAU - Vidoudez, Charles
+AU  - Vidoudez C
+AUID- ORCID: 0000-0003-0953-7800
+AD  - Small Molecule Mass Spectrometry Facility, Harvard University, Cambridge, MA
+      02138, USA.
+FAU - Roland, Alexandre B
+AU  - Roland AB
+AUID- ORCID: 0000-0002-9463-9838
+AD  - Center for Systems Biology, Harvard University, Cambridge, MA 02138, USA.
+FAU - Tapia, Elicio E
+AU  - Tapia EE
+AUID- ORCID: 0000-0001-9005-5328
+AD  - Centro Jambatu de Investigacion y Conservacion de Anfibios, Fundacion Otonga, San
+      Rafael, Quito, Ecuador.
+FAU - Budnik, Bogdan
+AU  - Budnik B
+AD  - Proteomics Mass Spectrometry Facility, Harvard University, Cambridge, MA 02138,
+      USA.
+FAU - Trauger, Sunia A
+AU  - Trauger SA
+AUID- ORCID: 0000-0002-1678-8715
+AD  - Small Molecule Mass Spectrometry Facility, Harvard University, Cambridge, MA
+      02138, USA.
+FAU - Coloma, Luis A
+AU  - Coloma LA
+AUID- ORCID: 0000-0003-0158-2455
+AD  - Centro Jambatu de Investigacion y Conservacion de Anfibios, Fundacion Otonga, San
+      Rafael, Quito, Ecuador.
+FAU - O'Connell, Lauren A
+AU  - O'Connell LA
+AUID- ORCID: 0000-0002-2706-4077
+AD  - Department of Biology, Stanford University, Stanford, CA 94305, USA
+      loconnel@stanford.edu.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+DEP - 20190620
+PL  - England
+TA  - J Exp Biol
+JT  - The Journal of experimental biology
+JID - 0243705
+RN  - 0 (Alkaloids)
+RN  - 0 (Blood Proteins)
+RN  - 0 (Toxins, Biological)
+SB  - IM
+MH  - Alkaloids/administration & dosage/*metabolism
+MH  - Animals
+MH  - Anura/blood/genetics/*physiology
+MH  - Blood Proteins/*metabolism
+MH  - Diet
+MH  - Female
+MH  - *Gene Expression
+MH  - Intestines
+MH  - Liver/metabolism
+MH  - Male
+MH  - Proteomics
+MH  - Skin/metabolism
+MH  - Toxins, Biological/biosynthesis/*physiology
+OTO - NOTNLM
+OT  - *Alkaloids
+OT  - *Dendrobatidae
+OT  - *Oophaga sylvatica
+OT  - *Plasma
+OT  - *Proteomics
+OT  - *RNA sequencing
+OT  - *Saxiphilin
+OT  - *Sequestration
+COIS- Competing interestsThe authors declare no competing or financial interests.
+EDAT- 2019/05/30 06:00
+MHDA- 2020/07/07 06:00
+CRDT- 2019/05/30 06:00
+PHST- 2019/03/28 00:00 [received]
+PHST- 2019/05/16 00:00 [accepted]
+PHST- 2019/05/30 06:00 [pubmed]
+PHST- 2020/07/07 06:00 [medline]
+PHST- 2019/05/30 06:00 [entrez]
+AID - jeb.204149 [pii]
+AID - 10.1242/jeb.204149 [doi]
+PST - epublish
+SO  - J Exp Biol. 2019 Jun 20;222(Pt 12). pii: jeb.204149. doi: 10.1242/jeb.204149.
+
+PMID- 30056980
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20181120
+LR  - 20181202
+IS  - 1873-2550 (Electronic)
+IS  - 0304-4017 (Linking)
+VI  - 259
+DP  - 2018 Aug 15
+TI  - The somatic proteins of Toxocara canis larvae and excretory-secretory products
+      revealed by proteomics.
+PG  - 25-34
+LID - S0304-4017(18)30255-3 [pii]
+LID - 10.1016/j.vetpar.2018.06.015 [doi]
+AB  - Toxocariasis is a widespread helminth infection of dogs and cats, caused by
+      Toxocara canis and Toxocara cati larvae, respectively. Toxocara spp. can cause
+      zoonotic infections in humans by invading tissues and organs causing pathology.
+      Toxocara spp. larvae release excretory-secretory molecules (TES) into the body of
+      their host that are fundamental to the host-parasite interaction and could be
+      used as targets for novel diagnostics and vaccines. In the present study, we
+      identified 646 T. canis proteins from TES and larval extract using 1D-SDS PAGE
+      followed by mass spectrometry. A wide range of proteins was identified that may
+      play a role both in the induction of the host immune response and host pathology,
+      and in parasite metabolism and survival. Among these proteins there are potential
+      candidates for novel diagnostics and vaccines for dogs and cats toxocariases.
+CI  - Copyright (c) 2018 Elsevier B.V. All rights reserved.
+FAU - da Silva, Marcia B
+AU  - da Silva MB
+AD  - Instituto de Ciencias da Saude, Universidade Federal da Bahia, Salvador, Bahia,
+      Brazil. Electronic address: marciasilva25j@yahoo.com.br.
+FAU - Urrego A, Juan R
+AU  - Urrego A JR
+AD  - Instituto de Ciencias da Saude, Universidade Federal da Bahia, Salvador, Bahia,
+      Brazil; Department of Pharmaceutical Sciences, University of Cartagena,
+      Cartagena, Colombia. Electronic address: ricardo_urrego@hotmail.com.
+FAU - Oviedo, Yisela
+AU  - Oviedo Y
+AD  - Instituto de Ciencias da Saude, Universidade Federal da Bahia, Salvador, Bahia,
+      Brazil. Electronic address: goviv1@yahoo.com.
+FAU - Cooper, Philip J
+AU  - Cooper PJ
+AD  - Facultad de Ciencias Medicas, de la Salud y la Vida, Universidad Internacional
+      del Ecuador, Quito, Ecuador; Insitute of Infection and Immunity, St George's
+      University of London, London, United Kingdom. Electronic address:
+      pcooper@sgul.ac.uk.
+FAU - Pacheco, Luis G C
+AU  - Pacheco LGC
+AD  - Instituto de Ciencias da Saude, Universidade Federal da Bahia, Salvador, Bahia,
+      Brazil. Electronic address: lgcpacheco@gmail.com.
+FAU - Pinheiro, Carina S
+AU  - Pinheiro CS
+AD  - Instituto de Ciencias da Saude, Universidade Federal da Bahia, Salvador, Bahia,
+      Brazil. Electronic address: carinasilvapinheiro@gmail.com.
+FAU - Ferreira, Fatima
+AU  - Ferreira F
+AD  - Department of Biosciences, University of Salzburg, Salzburg, Austria. Electronic 
+      address: fatima.ferreira-briza@sbg.ac.at.
+FAU - Briza, Peter
+AU  - Briza P
+AD  - Department of Biosciences, University of Salzburg, Salzburg, Austria. Electronic 
+      address: peter.briza@sbg.ac.at.
+FAU - Alcantara-Neves, Neuza M
+AU  - Alcantara-Neves NM
+AD  - Instituto de Ciencias da Saude, Universidade Federal da Bahia, Salvador, Bahia,
+      Brazil. Electronic address: neuza@ufba.br.
+LA  - eng
+PT  - Journal Article
+DEP - 20180626
+PL  - Netherlands
+TA  - Vet Parasitol
+JT  - Veterinary parasitology
+JID - 7602745
+RN  - 0 (Antigens, Helminth)
+RN  - 0 (Helminth Proteins)
+SB  - IM
+MH  - Animals
+MH  - Antigens, Helminth/immunology
+MH  - Databases, Genetic
+MH  - Dogs
+MH  - Electrophoresis, Polyacrylamide Gel
+MH  - Female
+MH  - Helminth Proteins/*analysis/genetics/isolation & purification/*metabolism
+MH  - Humans
+MH  - Larva/*chemistry
+MH  - *Proteomics
+MH  - Toxocara canis/*chemistry/pathogenicity
+MH  - Toxocariasis/parasitology
+MH  - Zoonoses/parasitology/transmission
+OTO - NOTNLM
+OT  - Excretory/secretory proteins
+OT  - Larvae
+OT  - Proteomics
+OT  - Toxocara canis
+OT  - Toxocariasis
+EDAT- 2018/07/31 06:00
+MHDA- 2018/11/21 06:00
+CRDT- 2018/07/31 06:00
+PHST- 2018/03/15 00:00 [received]
+PHST- 2018/06/02 00:00 [revised]
+PHST- 2018/06/23 00:00 [accepted]
+PHST- 2018/07/31 06:00 [entrez]
+PHST- 2018/07/31 06:00 [pubmed]
+PHST- 2018/11/21 06:00 [medline]
+AID - S0304-4017(18)30255-3 [pii]
+AID - 10.1016/j.vetpar.2018.06.015 [doi]
+PST - ppublish
+SO  - Vet Parasitol. 2018 Aug 15;259:25-34. doi: 10.1016/j.vetpar.2018.06.015. Epub
+      2018 Jun 26.
+
+PMID- 29086402
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180612
+LR  - 20180905
+IS  - 1940-6029 (Electronic)
+IS  - 1064-3745 (Linking)
+VI  - 1696
+DP  - 2018
+TI  - Targeted Quantification of Isoforms of a Thylakoid-Bound Protein: MRM Method
+      Development.
+PG  - 147-162
+LID - 10.1007/978-1-4939-7411-5_10 [doi]
+AB  - Targeted mass spectrometric methods such as selected/multiple reaction monitoring
+      (SRM/MRM) have found intense application in protein detection and quantification 
+      which competes with classical immunoaffinity techniques. It provides a universal 
+      procedure to develop a fast, highly specific, sensitive, accurate, and cheap
+      methodology for targeted detection and quantification of proteins based on the
+      direct analysis of their surrogate peptides typically generated by tryptic
+      digestion. This methodology can be advantageously applied in the field of plant
+      proteomics and particularly for non-model species since immunoreagents are
+      scarcely available. Here, we describe the issues to take into consideration in
+      order to develop a MRM method to detect and quantify isoforms of the
+      thylakoid-bound protein polyphenol oxidase from the non-model and database
+      underrepresented species Eriobotrya japonica Lindl.
+FAU - Bru-Martinez, Roque
+AU  - Bru-Martinez R
+AD  - Plant Proteomics and Functional Genomics Group, Department of Agrochemistry and
+      Biochemistry, Faculty of Science and IMEM Ramon Margalef, University of Alicante,
+      Ctra. San Vicente del Raspeig s/n, 03080, Alicante, Spain. Roque.Bru@ua.es.
+FAU - Martinez-Marquez, Ascension
+AU  - Martinez-Marquez A
+AD  - Plant Proteomics and Functional Genomics Group, Department of Agrochemistry and
+      Biochemistry, Faculty of Science and IMEM Ramon Margalef, University of Alicante,
+      Ctra. San Vicente del Raspeig s/n, 03080, Alicante, Spain.
+FAU - Morante-Carriel, Jaime
+AU  - Morante-Carriel J
+AD  - Biotechnology and Molecular Biology Group, Quevedo State Technical University,
+      Quevedo, 120501, Ecuador.
+FAU - Selles-Marchart, Susana
+AU  - Selles-Marchart S
+AD  - Plant Proteomics and Functional Genomics Group, Department of Agrochemistry and
+      Biochemistry, Faculty of Science and IMEM Ramon Margalef, University of Alicante,
+      Ctra. San Vicente del Raspeig s/n, 03080, Alicante, Spain.
+AD  - Research Technical Facility, Proteomics and Genomics Division, University of
+      Alicante, 03080, Alicante, Spain.
+FAU - Martinez-Esteso, Maria Jose
+AU  - Martinez-Esteso MJ
+AD  - Plant Proteomics and Functional Genomics Group, Department of Agrochemistry and
+      Biochemistry, Faculty of Science and IMEM Ramon Margalef, University of Alicante,
+      Ctra. San Vicente del Raspeig s/n, 03080, Alicante, Spain.
+FAU - Pineda-Lucas, Jose Luis
+AU  - Pineda-Lucas JL
+AD  - Laboratorio Quimico-Microbiologico, S.A., Poligono Industrial Oeste (Cl
+      Principal), 21-PAR 21/1, 30169, Murcia, Spain.
+FAU - Luque, Ignacio
+AU  - Luque I
+AD  - Institute of Plant Biochemistry and Photosynthesis, University of Seville-CSIC,
+      Av. A. Vespucio 49, 41092, Seville, Spain.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Methods Mol Biol
+JT  - Methods in molecular biology (Clifton, N.J.)
+JID - 9214969
+RN  - 0 (Chloroplast Proteins)
+RN  - 0 (Membrane Proteins)
+RN  - 0 (Protein Isoforms)
+SB  - IM
+MH  - Chloroplast Proteins/genetics/isolation & purification
+MH  - Chromatography, High Pressure Liquid
+MH  - Eriobotrya/*cytology/genetics/metabolism
+MH  - Mass Spectrometry
+MH  - Membrane Proteins/genetics/isolation & purification
+MH  - Protein Isoforms/genetics/*isolation & purification
+MH  - Proteomics/*methods
+MH  - Thylakoids/*metabolism
+OTO - NOTNLM
+OT  - *Loquat
+OT  - *MRM
+OT  - *Polyphenol oxidase
+OT  - *Protein isoform
+OT  - *Thylakoid-bound
+EDAT- 2017/11/01 06:00
+MHDA- 2018/06/13 06:00
+CRDT- 2017/11/01 06:00
+PHST- 2017/11/01 06:00 [entrez]
+PHST- 2017/11/01 06:00 [pubmed]
+PHST- 2018/06/13 06:00 [medline]
+AID - 10.1007/978-1-4939-7411-5_10 [doi]
+PST - ppublish
+SO  - Methods Mol Biol. 2018;1696:147-162. doi: 10.1007/978-1-4939-7411-5_10.
+
+PMID- 28878794
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20201001
+IS  - 1664-462X (Print)
+IS  - 1664-462X (Linking)
+VI  - 8
+DP  - 2017
+TI  - A Tau Class Glutathione-S-Transferase is Involved in Trans-Resveratrol Transport 
+      Out of Grapevine Cells.
+PG  - 1457
+LID - 10.3389/fpls.2017.01457 [doi]
+AB  - Vitis vinifera cell cultures respond to pathogens and elicitors by synthesizing
+      and extracellularly accumulating stilbenoid phytoalexins. Large amounts of
+      trans-resveratrol (t-R) are produced when a cell culture is elicited with
+      methylated cyclodextrins (MBCD), either alone or combined with methyl jasmonate
+      (MeJA). t-R transport to the extracellular medium, which represents the
+      apoplastic space, would place this antifungal defense right in the battlefield to
+      efficiently fight against pathogen attack. Yet despite their physiological
+      relevance, these transport pathways are mostly unknown. A broad hypothesis-free
+      DIGE-based proteomic experiment of a temporal series of elicited grapevine cell
+      cultures was performed to explore the expression profiles of t-R biosynthetic
+      proteins and other co-expressing proteins potentially involved in such a cell
+      response. A correlation between two tau class glutathione-S-transferases (GSTs)
+      with several stilbene synthase and phenylalanine ammonia-lyase isoforms, and with
+      the t-R metabolite itself, was found and further assessed by a qRT-PCR gene
+      expression analysis. The best candidate, GSTU-2, was cloned from the cDNA of the 
+      MBCD + MeJA-elicited grapevine cells and used for Agrobacterium-mediated
+      grapevine cell transformation. The non-elicited lines that overexpressed GSTU-2
+      displayed an extracellular t-R accumulating phenotype, but stabilization of t-R
+      required the addition to culture medium of adsorbent compounds, e.g., PVP or
+      beta-cyclodextrin. The wild-type cell cultures accumulated no t-R, not even in
+      the presence of adsorbents. The transient expression of the GSTU-2-GFP fusion
+      proteins in grapevine cells showed localisation in the plasma membrane, and the
+      immunoprecipitation of HA-tagged GSTU-2 revealed its interaction with HIR, a
+      plasma membrane-bound protein. These findings are consistent with a functional
+      role in transport. This is the first report providing several pieces of
+      experimental evidence for the involvement of a specific tau class GST in t-R
+      transport to the extracellular medium.
+FAU - Martinez-Marquez, Ascension
+AU  - Martinez-Marquez A
+AD  - Plant Proteomics and Functional Genomics Group, Department of Agrochemistry and
+      Biochemistry, Faculty of Science, University of AlicanteAlicante, Spain.
+FAU - Martinez-Esteso, Maria J
+AU  - Martinez-Esteso MJ
+AD  - Plant Proteomics and Functional Genomics Group, Department of Agrochemistry and
+      Biochemistry, Faculty of Science, University of AlicanteAlicante, Spain.
+FAU - Vilella-Anton, Maria T
+AU  - Vilella-Anton MT
+AD  - Plant Proteomics and Functional Genomics Group, Department of Agrochemistry and
+      Biochemistry, Faculty of Science, University of AlicanteAlicante, Spain.
+FAU - Selles-Marchart, Susana
+AU  - Selles-Marchart S
+AD  - Plant Proteomics and Functional Genomics Group, Department of Agrochemistry and
+      Biochemistry, Faculty of Science, University of AlicanteAlicante, Spain.
+FAU - Morante-Carriel, Jaime A
+AU  - Morante-Carriel JA
+AD  - Plant Proteomics and Functional Genomics Group, Department of Agrochemistry and
+      Biochemistry, Faculty of Science, University of AlicanteAlicante, Spain.
+AD  - Biotechnology and Molecular Biology Group, Quevedo State Technical
+      UniversityQuevedo, Ecuador.
+FAU - Hurtado, Elias
+AU  - Hurtado E
+AD  - Plant Proteomics and Functional Genomics Group, Department of Agrochemistry and
+      Biochemistry, Faculty of Science, University of AlicanteAlicante, Spain.
+FAU - Palazon, Javier
+AU  - Palazon J
+AD  - Laboratory of Plant Physiology, Faculty of Pharmacy, University of
+      BarcelonaBarcelona, Spain.
+FAU - Bru-Martinez, Roque
+AU  - Bru-Martinez R
+AD  - Plant Proteomics and Functional Genomics Group, Department of Agrochemistry and
+      Biochemistry, Faculty of Science, University of AlicanteAlicante, Spain.
+LA  - eng
+PT  - Journal Article
+DEP - 20170821
+PL  - Switzerland
+TA  - Front Plant Sci
+JT  - Frontiers in plant science
+JID - 101568200
+PMC - PMC5573539
+OTO - NOTNLM
+OT  - DIGE proteomics
+OT  - Vitis vinifera
+OT  - cell culture
+OT  - glutathione-S-transferase
+OT  - qRT-PCR
+OT  - resveratrol
+OT  - transformation
+OT  - transport
+EDAT- 2017/09/08 06:00
+MHDA- 2017/09/08 06:01
+CRDT- 2017/09/08 06:00
+PHST- 2017/05/16 00:00 [received]
+PHST- 2017/08/04 00:00 [accepted]
+PHST- 2017/09/08 06:00 [entrez]
+PHST- 2017/09/08 06:00 [pubmed]
+PHST- 2017/09/08 06:01 [medline]
+AID - 10.3389/fpls.2017.01457 [doi]
+PST - epublish
+SO  - Front Plant Sci. 2017 Aug 21;8:1457. doi: 10.3389/fpls.2017.01457. eCollection
+      2017.
+
+PMID- 27704815
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170616
+LR  - 20180112
+IS  - 1520-6025 (Electronic)
+IS  - 0163-3864 (Linking)
+VI  - 79
+IP  - 10
+DP  - 2016 Oct 28
+TI  - Drug Affinity Responsive Target Stability (DARTS) Identifies Laurifolioside as a 
+      New Clathrin Heavy Chain Modulator.
+PG  - 2681-2692
+AB  - Five new diterpenes (1-5) and a megastigmane derivative (6) were isolated from
+      the aerial parts of Euphorbia laurifolia, along with several known compounds.
+      Their structures were elucidated by NMR, MS, and ECD and by chemical methods. A
+      chemical proteomics drug affinity responsive target stability (DARTS) approach to
+      investigate the lathyrane diterpene 1, laurifolioside, on its putative cellular
+      target(s) was performed. Clathrin heavy chain 1, a protein mainly involved in
+      selective uptake of proteins, viruses, and other macromolecules at the plasma
+      membrane of cells, was identified as the major interaction partner of compound 1.
+      The modulation of clathrin activity by 1 was studied through microscopy,
+      molecular docking, and molecular dynamics studies, suggesting a new activity of
+      lathyrane diterpenes in the modulation of trafficking pathways.
+FAU - Dal Piaz, Fabrizio
+AU  - Dal Piaz F
+AD  - Dipartimento di Farmacia, Universita di Salerno , Via Giovanni Paolo II 132,
+      84084 Fisciano (SA), Italy.
+FAU - Vera Saltos, Mariela Beatriz
+AU  - Vera Saltos MB
+AD  - Departamento de Ciencias de la Vida, Universidad de las Fuerzas Armadas , ESPE,
+      Avenida General Ruminahui s/n, Sangolqui, Ecuador.
+FAU - Franceschelli, Silvia
+AU  - Franceschelli S
+AD  - Dipartimento di Farmacia, Universita di Salerno , Via Giovanni Paolo II 132,
+      84084 Fisciano (SA), Italy.
+FAU - Forte, Giovanni
+AU  - Forte G
+AD  - Dipartimento di Farmacia, Universita di Salerno , Via Giovanni Paolo II 132,
+      84084 Fisciano (SA), Italy.
+FAU - Marzocco, Stefania
+AU  - Marzocco S
+AD  - Dipartimento di Farmacia, Universita di Salerno , Via Giovanni Paolo II 132,
+      84084 Fisciano (SA), Italy.
+FAU - Tuccinardi, Tiziano
+AU  - Tuccinardi T
+AD  - Dipartimento di Farmacia, Universita di Pisa , Via Bonanno 33, 56126 Pisa, Italy.
+FAU - Poli, Giulio
+AU  - Poli G
+AD  - Dipartimento di Farmacia, Universita di Pisa , Via Bonanno 33, 56126 Pisa, Italy.
+FAU - Nejad Ebrahimi, Samad
+AU  - Nejad Ebrahimi S
+AD  - Department of Phytochemistry, Medicinal Plants and Drugs Research Institute,
+      Shahid Beheshti University , G. C., Evin, Tehran, Iran.
+FAU - Hamburger, Matthias
+AU  - Hamburger M
+AD  - Division of Pharmaceutical Biology, Department of Pharmaceutical Sciences,
+      University of Basel , Basel, Switzerland.
+FAU - De Tommasi, Nunziatina
+AU  - De Tommasi N
+AD  - Dipartimento di Farmacia, Universita di Salerno , Via Giovanni Paolo II 132,
+      84084 Fisciano (SA), Italy.
+FAU - Braca, Alessandra
+AU  - Braca A
+AD  - Dipartimento di Farmacia, Universita di Pisa , Via Bonanno 33, 56126 Pisa, Italy.
+LA  - eng
+PT  - Journal Article
+DEP - 20161005
+PL  - United States
+TA  - J Nat Prod
+JT  - Journal of natural products
+JID - 7906882
+RN  - 0 (Cyclohexanones)
+RN  - 0 (Diterpenes)
+RN  - 0 (Glucosides)
+RN  - 0 (Norisoprenoids)
+RN  - 0 (Plant Proteins)
+RN  - 0 (lathyrane)
+RN  - 0 (laurifolioside)
+RN  - 0 (megastigmane)
+RN  - 114899-12-6 (Clathrin Heavy Chains)
+SB  - IM
+MH  - Clathrin Heavy Chains/*metabolism
+MH  - Cyclohexanones/chemistry/isolation & purification/pharmacology
+MH  - Diterpenes/chemistry/*isolation & purification/*pharmacology
+MH  - Ecuador
+MH  - Euphorbia/*chemistry
+MH  - Glucosides/chemistry/isolation & purification/pharmacology
+MH  - Humans
+MH  - Molecular Docking Simulation
+MH  - Molecular Structure
+MH  - Norisoprenoids/chemistry/isolation & purification/pharmacology
+MH  - Nuclear Magnetic Resonance, Biomolecular
+MH  - Plant Components, Aerial/chemistry
+MH  - Plant Proteins/analysis/chemistry
+EDAT- 2016/10/30 06:00
+MHDA- 2017/06/18 06:00
+CRDT- 2016/10/06 06:00
+PHST- 2016/10/30 06:00 [pubmed]
+PHST- 2017/06/18 06:00 [medline]
+PHST- 2016/10/06 06:00 [entrez]
+AID - 10.1021/acs.jnatprod.6b00627 [doi]
+PST - ppublish
+SO  - J Nat Prod. 2016 Oct 28;79(10):2681-2692. doi: 10.1021/acs.jnatprod.6b00627. Epub
+      2016 Oct 5.
+
+PMID- 26217358
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20150728
+LR  - 20200930
+IS  - 1664-462X (Print)
+IS  - 1664-462X (Linking)
+VI  - 6
+DP  - 2015
+TI  - The role of proteomics in progressing insights into plant secondary metabolism.
+PG  - 504
+LID - 10.3389/fpls.2015.00504 [doi]
+AB  - The development of omics has enabled the genome-wide exploration of all kinds of 
+      biological processes at the molecular level. Almost every field of plant biology 
+      has been analyzed at the genomic, transcriptomic and proteomic level. Here we
+      focus on the particular contribution that proteomic technologies have made in
+      progressing knowledge and characterising plant secondary metabolism (SM) pathways
+      since early expectations were created 15 years ago. We analyzed how three major
+      issues in the proteomic analysis of plant SM have been implemented in various
+      research studies. These issues are: (i) the selection of a suitable plant
+      material rich in secondary metabolites of interest, such as specialized tissues
+      and organs, and in vitro cell cultures; (ii) the proteomic strategy to access
+      target proteins, either a comprehensive or a differential analysis; (iii) the
+      proteomic approach, represented by the hypothesis-free discovery proteomics and
+      the hypothesis-driven targeted proteomics. We also examine to what extent the
+      most-advanced technologies have been incorporated into proteomic research in
+      plant SM and highlight some cutting edge techniques that would strongly benefit
+      the progress made in this field.
+FAU - Martinez-Esteso, Maria J
+AU  - Martinez-Esteso MJ
+AD  - Plant Proteomics and Functional Genomics Group, Department of Agrochemistry and
+      Biochemistry, Multidisciplinary Institute for Environmental Studies "Ramon
+      Margalef", University of Alicante , Alicante, Spain.
+FAU - Martinez-Marquez, Ascension
+AU  - Martinez-Marquez A
+AD  - Plant Proteomics and Functional Genomics Group, Department of Agrochemistry and
+      Biochemistry, Multidisciplinary Institute for Environmental Studies "Ramon
+      Margalef", University of Alicante , Alicante, Spain.
+FAU - Selles-Marchart, Susana
+AU  - Selles-Marchart S
+AD  - Plant Proteomics and Functional Genomics Group, Department of Agrochemistry and
+      Biochemistry, Multidisciplinary Institute for Environmental Studies "Ramon
+      Margalef", University of Alicante , Alicante, Spain ; Biotechnology and Molecular
+      Biology Group, Quevedo State Technical University , Quevedo, Ecuador.
+FAU - Morante-Carriel, Jaime A
+AU  - Morante-Carriel JA
+AD  - Proteomics and Genomics Division, Research Technical Facility, University of
+      Alicante , Alicante, Spain.
+FAU - Bru-Martinez, Roque
+AU  - Bru-Martinez R
+AD  - Plant Proteomics and Functional Genomics Group, Department of Agrochemistry and
+      Biochemistry, Multidisciplinary Institute for Environmental Studies "Ramon
+      Margalef", University of Alicante , Alicante, Spain.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20150707
+PL  - Switzerland
+TA  - Front Plant Sci
+JT  - Frontiers in plant science
+JID - 101568200
+PMC - PMC4493368
+OTO - NOTNLM
+OT  - DIGE
+OT  - MRM
+OT  - alkaloids
+OT  - cell cultures
+OT  - polyphenols
+OT  - secondary metabolism
+OT  - shotgun proteomics
+OT  - terpenoids
+EDAT- 2015/07/29 06:00
+MHDA- 2015/07/29 06:01
+CRDT- 2015/07/29 06:00
+PHST- 2015/02/28 00:00 [received]
+PHST- 2015/06/23 00:00 [accepted]
+PHST- 2015/07/29 06:00 [entrez]
+PHST- 2015/07/29 06:00 [pubmed]
+PHST- 2015/07/29 06:01 [medline]
+AID - 10.3389/fpls.2015.00504 [doi]
+PST - epublish
+SO  - Front Plant Sci. 2015 Jul 7;6:504. doi: 10.3389/fpls.2015.00504. eCollection
+      2015.
+
+PMID- 26161545
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160429
+LR  - 20150803
+IS  - 1557-8100 (Electronic)
+IS  - 1536-2310 (Linking)
+VI  - 19
+IP  - 8
+DP  - 2015 Aug
+TI  - An Appeal to the Global Health Community for a Tripartite Innovation: An
+      "Essential Diagnostics List," "Health in All Policies," and "See-Through 21(st)
+      Century Science and Ethics".
+PG  - 435-42
+LID - 10.1089/omi.2015.0075 [doi]
+AB  - Diagnostics spanning a wide range of new biotechnologies, including proteomics,
+      metabolomics, and nanotechnology, are emerging as companion tests to innovative
+      medicines. In this Opinion, we present the rationale for promulgating an
+      "Essential Diagnostics List." Additionally, we explain the ways in which adopting
+      a vision for "Health in All Policies" could link essential diagnostics with
+      robust and timely societal outcomes such as sustainable development, human
+      rights, gender parity, and alleviation of poverty. We do so in three ways. First,
+      we propose the need for a new, "see through" taxonomy for knowledge-based
+      innovation as we transition from the material industries (e.g., textiles,
+      plastic, cement, glass) dominant in the 20(th) century to the anticipated
+      knowledge industry of the 21st century. If knowledge is the currency of the
+      present century, then it is sensible to adopt an approach that thoroughly
+      examines scientific knowledge, starting with the production aims, methods,
+      quality, distribution, access, and the ends it purports to serve. Second, we
+      explain that this knowledge trajectory focus on innovation is crucial and
+      applicable across all sectors, including public, private, or public-private
+      partnerships, as it underscores the fact that scientific knowledge is a
+      co-product of technology, human values, and social systems. By making the value
+      systems embedded in scientific design and knowledge co-production transparent, we
+      all stand to benefit from sustainable and transparent science. Third, we appeal
+      to the global health community to consider the necessary qualities of good
+      governance for 21st century organizations that will embark on developing
+      essential diagnostics. These have importance not only for science and
+      knowledge-based innovation, but also for the ways in which we can build open,
+      healthy, and peaceful civil societies today and for future generations.
+FAU - Dove, Edward S
+AU  - Dove ES
+AD  - 1 J. Kenyon Mason Institute for Medicine, Life Sciences and the Law, University
+      of Edinburgh School of Law , Edinburgh, United Kingdom .
+FAU - Barlas, I Omer
+AU  - Barlas IO
+AD  - 2 Faculty of Medicine, Department of Medical Biology and Genetics, Mersin
+      University , Mersin, Turkey .
+FAU - Birch, Kean
+AU  - Birch K
+AD  - 3 Department of Social Science, Faculty of Liberal Arts and Professional Studies,
+      York University , Toronto, Ontario, Canada .
+FAU - Boehme, Catharina
+AU  - Boehme C
+AD  - 4 Foundation for Innovative New Diagnostics (FIND) , Campus Biotech, Chemin des
+      Mines, Geneva, Switzerland .
+FAU - Borda-Rodriguez, Alexander
+AU  - Borda-Rodriguez A
+AD  - 5 Secretaria Nacional de Educacion Superior , Ciencia, Tecnologia e Innovacion,
+      Quito, Ecuador .
+AD  - 6 Development Policy and Practice Group, The Open University , Milton Keynes,
+      United Kingdom .
+FAU - Byne, William M
+AU  - Byne WM
+AD  - 7 Departments of Psychiatry, The Icahn School of Medicine at Mount Sinai, New
+      York, NY and The James J. Peters VA Medical Center , Bronx, New York.
+FAU - Chaverneff, Florence
+AU  - Chaverneff F
+AD  - 8 Department of Neuroscience and Physiology, NYU Langone Medical Center , New
+      York, New York.
+FAU - Coskun, Yavuz
+AU  - Coskun Y
+AD  - 9 Office of the President, Gaziantep University , Gaziantep, Turkey .
+FAU - Dahl, Marja-Liisa
+AU  - Dahl ML
+AD  - 10 Division of Clinical Pharmacology, Karolinska Institute , Stockholm, Sweden .
+FAU - Dereli, Turkay
+AU  - Dereli T
+AD  - 11 Department of Industrial Engineering, Faculty of Engineering, Gaziantep
+      University , Gaziantep, Turkey .
+FAU - Diwakar, Shyam
+AU  - Diwakar S
+AD  - 12 Amrita School of Biotechnology, Amrita Vishwa Vidyapeetham (Amrita University)
+      , Amritapuri, Clappana P.O., Kollam, Kerala, India .
+FAU - Elbeyli, Levent
+AU  - Elbeyli L
+AD  - 13 Faculty of Medicine, Gaziantep University , Gaziantep, Turkey .
+FAU - Endrenyi, Laszlo
+AU  - Endrenyi L
+AD  - 14 Department of Pharmacology, Faculty of Medicine, University of Toronto ,
+      Ontario, Canada .
+FAU - Eroglu-Kesim, Belgin
+AU  - Eroglu-Kesim B
+AD  - 15 Sisli Etfal Research and Education Hospital , Istanbul, Turkey .
+FAU - Ferguson, Lynnette R
+AU  - Ferguson LR
+AD  - 16 Discipline of Nutrition, The University of Auckland , Auckland, New Zealand .
+FAU - Gungor, Kivanc
+AU  - Gungor K
+AD  - 17 Faculty of Health Sciences, Gaziantep University , Gaziantep, Turkey .
+FAU - Gursoy, Ulvi
+AU  - Gursoy U
+AD  - 18 Department of Periodontology, Institute of Dentistry, University of Turku ,
+      Turku, Finland .
+FAU - Hekim, Nezih
+AU  - Hekim N
+AD  - 19 School of Medicine, Beykent University , Istanbul, Turkey .
+FAU - Huzair, Farah
+AU  - Huzair F
+AD  - 20 Science, Technology and Innovation Studies, School of Social and Political
+      Science, University of Edinburgh , Edinburgh, United Kingdom .
+FAU - Kaushik, Kabeer
+AU  - Kaushik K
+AD  - 21 Vainteya Films Pvt Ltd , New Delhi, Delhi, India .
+FAU - Kickbusch, Ilona
+AU  - Kickbusch I
+AD  - 22 Global Health Program, Graduate Institute of International and Development
+      Studies , Geneva, Switzerland .
+FAU - Kiroglu, Olcay
+AU  - Kiroglu O
+AD  - 23 Department of Pharmacology, Faculty of Medicine, Cukurova University , Adana, 
+      Turkey .
+FAU - Kolker, Eugene
+AU  - Kolker E
+AD  - 24 Bioinformatics and High-Throughput Analysis Laboratory, Seattle Children's
+      Research Institute and CDO Analytics , Seattle Children's, Seattle, Washington.
+AD  - 25 Departments of Biomedical Informatics and Medical Education and Pediatrics,
+      and University of Washington , Seattle, Washington.
+AD  - 26 Data-Enabled Life Sciences Alliance (DELSA Global) , Seattle, Washington.
+AD  - 27 Department of Chemistry and Chemical Biology, College of Science, Northeastern
+      University , Boston, Massachusetts.
+FAU - Kononen, Eija
+AU  - Kononen E
+AD  - 18 Department of Periodontology, Institute of Dentistry, University of Turku ,
+      Turku, Finland .
+FAU - Lin, Biaoyang
+AU  - Lin B
+AD  - 28 Department of Urology, University of Washington , Seattle, Washington.
+AD  - 29 Collaborative Innovation Center for Diagnosis and Treatment of Infectious
+      Diseases, Zhejiang University , Hangzhou, China .
+FAU - Llerena, Adrian
+AU  - Llerena A
+AD  - 30 Extremadura University Hospital and Medical School , Badajoz, Extremadura,
+      Spain.
+FAU - Malhan, Faruk
+AU  - Malhan F
+AD  - 31 Istanbul Design Foundation , Istanbul, Turkey .
+FAU - Nair, Bipin
+AU  - Nair B
+AD  - 12 Amrita School of Biotechnology, Amrita Vishwa Vidyapeetham (Amrita University)
+      , Amritapuri, Clappana P.O., Kollam, Kerala, India .
+FAU - Patrinos, George P
+AU  - Patrinos GP
+AD  - 32 Department of Pharmacy, University of Patras School of Health Sciences ,
+      Patras, Greece .
+FAU - Sardas, Semra
+AU  - Sardas S
+AD  - 33 Faculty of Pharmacy, Marmara University , Istanbul, Turkey .
+FAU - Sert, Ozlem
+AU  - Sert O
+AD  - 34 Urban Studies Center and the Department of History, Hacettepe University ,
+      Beytepe, Ankara, Turkey .
+FAU - Srivastava, Sanjeeva
+AU  - Srivastava S
+AD  - 35 Proteomics Laboratory, Department of Biosciences and Bioengineering, Indian
+      Institute of Technology Bombay , Powai, Mumbai, India .
+FAU - Steuten, Lotte M G
+AU  - Steuten LM
+AD  - 36 PANAXEA bv , Enschede, The Netherlands .
+AD  - 37 School of Pharmacy, University of Washington , Seattle, Washington.
+FAU - Toraman, Cengiz
+AU  - Toraman C
+AD  - 38 Faculty of Communications and Department of Management Sciences, Gaziantep
+      University , Gaziantep, Turkey .
+FAU - Vayena, Effy
+AU  - Vayena E
+AD  - 39 Institute of Biomedical Ethics, University of Zurich , Zurich, Switzerland .
+FAU - Wang, Wei
+AU  - Wang W
+AD  - 40 School of Medical Sciences, Edith Cowan University , Perth, Australia .
+AD  - 41 Beijing Municipal Key Laboratory of Clinical Epidemiology, School of Public
+      Health, Capital Medical University , Beijing, China .
+FAU - Warnich, Louise
+AU  - Warnich L
+AD  - 42 Faculty of Science, Stellenbosch University , Stellenbosch, South Africa .
+FAU - Ozdemir, Vural
+AU  - Ozdemir V
+AD  - 9 Office of the President, Gaziantep University , Gaziantep, Turkey .
+AD  - 11 Department of Industrial Engineering, Faculty of Engineering, Gaziantep
+      University , Gaziantep, Turkey .
+AD  - 12 Amrita School of Biotechnology, Amrita Vishwa Vidyapeetham (Amrita University)
+      , Amritapuri, Clappana P.O., Kollam, Kerala, India .
+AD  - 26 Data-Enabled Life Sciences Alliance (DELSA Global) , Seattle, Washington.
+AD  - 38 Faculty of Communications and Department of Management Sciences, Gaziantep
+      University , Gaziantep, Turkey .
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20150710
+PL  - United States
+TA  - OMICS
+JT  - Omics : a journal of integrative biology
+JID - 101131135
+RN  - 0 (Biomarkers)
+SB  - IM
+MH  - Biomarkers/analysis
+MH  - Diagnostic Services/economics/ethics/supply & distribution
+MH  - Global Health/economics/*ethics/trends
+MH  - Health Knowledge, Attitudes, Practice
+MH  - Humans
+MH  - Molecular Diagnostic Techniques/*trends
+MH  - *Organizational Innovation
+MH  - Pharmacogenetics/education
+MH  - Public Health/economics/*ethics/trends
+EDAT- 2015/07/15 06:00
+MHDA- 2016/04/30 06:00
+CRDT- 2015/07/11 06:00
+PHST- 2015/07/11 06:00 [entrez]
+PHST- 2015/07/15 06:00 [pubmed]
+PHST- 2016/04/30 06:00 [medline]
+AID - 10.1089/omi.2015.0075 [doi]
+PST - ppublish
+SO  - OMICS. 2015 Aug;19(8):435-42. doi: 10.1089/omi.2015.0075. Epub 2015 Jul 10.
+
+PMID- 24498576
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+DCOM- 20140205
+LR  - 20211021
+IS  - 2167-8359 (Print)
+IS  - 2167-8359 (Linking)
+VI  - 2
+DP  - 2014
+TI  - Snake venomics of Bothrops punctatus, a semiarboreal pitviper species from
+      Antioquia, Colombia.
+PG  - e246
+LID - 10.7717/peerj.246 [doi]
+AB  - Bothrops punctatus is an endangered, semi-arboreal pitviper species distributed
+      in Panama, Colombia, and Ecuador, whose venom is poorly characterized. In the
+      present work, the protein composition of this venom was profiled using the 'snake
+      venomics' analytical strategy. Decomplexation of the crude venom by RP-HPLC and
+      SDS-PAGE, followed by tandem mass spectrometry of tryptic digests, showed that it
+      consists of proteins assigned to at least nine snake toxin families.
+      Metalloproteinases are predominant in this secretion (41.5% of the total
+      proteins), followed by C-type lectin/lectin-like proteins (16.7%),
+      bradykinin-potentiating peptides (10.7%), phospholipases A2 (93%), serine
+      proteinases (5.4%), disintegrins (38%), L-amino acid oxidases (3.1%), vascular
+      endothelial growth factors (17%), and cysteine-rich secretory proteins (1.2%).
+      Altogether, 6.6% of the proteins were not identified. In vitro, the venom
+      exhibited proteolytic, phospholipase A2, and L-amino acid oxidase activities, as 
+      well as angiotensin-converting enzyme (ACE)-inhibitory activity, in agreement
+      with the obtained proteomic profile. Cytotoxic activity on murine C2C12 myoblasts
+      was negative, suggesting that the majority of venom phospholipases A2 likely
+      belong to the acidic type, which often lack major toxic effects. The protein
+      composition of B. punctatus venom shows a good correlation with toxic activities 
+      here and previously reported, and adds further data in support of the wide
+      diversity of strategies that have evolved in snake venoms to subdue prey, as
+      increasingly being revealed by proteomic analyses.
+FAU - Fernandez Culma, Maritza
+AU  - Fernandez Culma M
+AD  - Programa de Ofidismo/Escorpionismo , Universidad de Antioquia UdeA , Medellin ,
+      Colombia.
+FAU - Andres Pereanez, Jaime
+AU  - Andres Pereanez J
+AD  - Programa de Ofidismo/Escorpionismo , Universidad de Antioquia UdeA , Medellin ,
+      Colombia ; Facultad de Quimica Farmaceutica , Universidad de Antioquia UdeA ,
+      Medellin , Colombia.
+FAU - Nunez Rangel, Vitelbina
+AU  - Nunez Rangel V
+AD  - Programa de Ofidismo/Escorpionismo , Universidad de Antioquia UdeA , Medellin ,
+      Colombia ; Escuela de Microbiologia , Universidad de Antioquia UdeA , Medellin , 
+      Colombia.
+FAU - Lomonte, Bruno
+AU  - Lomonte B
+AD  - Instituto Clodomiro Picado , Facultad de Microbiologia , Universidad de Costa
+      Rica , San Jose , Costa Rica.
+LA  - eng
+PT  - Journal Article
+DEP - 20140122
+PL  - United States
+TA  - PeerJ
+JT  - PeerJ
+JID - 101603425
+PMC - PMC3912449
+OTO - NOTNLM
+OT  - Bothrops punctatus
+OT  - Proteomics
+OT  - Snake venom
+OT  - Viperidae
+EDAT- 2014/02/06 06:00
+MHDA- 2014/02/06 06:01
+CRDT- 2014/02/06 06:00
+PHST- 2013/12/11 00:00 [received]
+PHST- 2013/12/27 00:00 [accepted]
+PHST- 2014/02/06 06:00 [entrez]
+PHST- 2014/02/06 06:00 [pubmed]
+PHST- 2014/02/06 06:01 [medline]
+AID - 10.7717/peerj.246 [doi]
+AID - 246 [pii]
+PST - epublish
+SO  - PeerJ. 2014 Jan 22;2:e246. doi: 10.7717/peerj.246. eCollection 2014.
